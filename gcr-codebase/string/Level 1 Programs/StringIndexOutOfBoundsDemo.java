@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class StringIndexOutOfBoundsDemo {
 
+    
     // Method to generate StringIndexOutOfBoundsException
     public static void generateException(String text) {
 
