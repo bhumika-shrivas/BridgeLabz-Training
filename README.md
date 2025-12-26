@@ -113,3 +113,24 @@ BridgeLabz-Training/
 👉 [Day 8 – Extras Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
+### 📅 Day 9 – Scenario-Based Core Java Practice  
+*(Date: 26-Dec-2025)*
+
+- Practiced real-world, scenario-based programming using Core Java concepts.  
+- Focused on applying conditional logic, loops, and user input handling in practical scenarios.  
+- Designed interactive programs that simulate real-life system behavior.  
+- Strengthened logical thinking, control flow, and structured program design.  
+- Followed clean coding practices including proper naming conventions, indentation, and comments.
+
+#### 🔑 Key Concepts Applied
+- Variables, literals, and primitive data types  
+- User input handling using `Scanner`  
+- Conditional statements (`if-else`, `switch`, ternary operator)  
+- Looping constructs (`for`, `while`)  
+- Control flow using `break` and `continue`  
+- Arithmetic operations and basic validations  
+
+🔗 **Code Link:**  
+👉 [Day 9 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
