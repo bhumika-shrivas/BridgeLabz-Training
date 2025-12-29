@@ -134,3 +134,34 @@ BridgeLabz-Training/
 👉 [Day 9 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 
 ---
+### 📅 Day 10 – Scenario-Based Core Java Practice  
+*(Date: 29-Dec-2025)*
+
+- Practiced real-world, scenario-based programming using Core Java concepts.
+  
+## 📌 Scenario-Based Java Programs
+
+### 🛍️ Shopkeeper’s Discount Dashboard
+- Accepts item prices using a loop  
+- Calculates total bill amount  
+- Applies discount using if-else conditions  
+- Displays final bill after discount  
+- Follows clean code practices with constants and methods  
+
+### 🚌 Bus Attendance System
+- Stores student names in an array  
+- Records attendance as Present or Absent  
+- Uses loops and for-each loop to count attendance  
+- Displays total number of present and absent students  
+
+### 📱 Mobile Recharge System
+- Takes mobile operator and recharge amount as input  
+- Uses switch-case to display operator-specific offers  
+- Allows multiple recharges using a loop  
+- Shows updated balance after each recharge  
+
+
+🔗 **Code Link:**  
+👉 [Day 10 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+
+---
