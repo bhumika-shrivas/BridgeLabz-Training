@@ -35,4 +35,4 @@
   
 
 🔗 *Code Link:*  
-👉 [Day 2 – Constructors, Static Members & Access Modifiers](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+👉 [Day 2 – Constructors, Static Members & Access Modifiers](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
