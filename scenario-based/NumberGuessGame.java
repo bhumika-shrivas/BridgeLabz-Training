@@ -29,8 +29,6 @@ public class NumberGuessGame
 		
 		System.out.println("Computer has thought a number");
 		
-		
-		
 		do
 		{
 			System.out.println("Guess the number: ");
