@@ -31,8 +31,46 @@
   - Employee Records  
   - Book Library System
 
-  ---
-  
-
 🔗 *Code Link:*  
 👉 [Day 2 – Constructors, Static Members & Access Modifiers](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
+
+---
+
+### 📅 Day 3 – Java Keywords (this, static, final, instanceof)
+*(Date: 29-Dec-2025)*
+
+- Learned the purpose and usage of important Java keywords
+
+- Understood how the `this` keyword refers to the current object  
+and resolves ambiguity between instance variables and parameters
+
+- Practiced constructor chaining using `this()`
+
+- Learned how the `static` keyword creates class-level members  
+and how static variables and methods are shared across objects
+
+- Used static blocks for initialization at class loading time
+
+- Understood the limitations of static methods  
+(no access to instance members, no method overriding)
+
+> Learned the `final` keyword to:
+- Create constants
+- Prevent method overriding
+- Restrict inheritance
+
+- Practiced the `instanceof` operator for type checking  
+and safe downcasting in polymorphism
+
+- Built and practiced programs such as:
+
+> Employee Constructor Demo  
+- Student Count Tracker  
+- Bank Interest Calculator  
+- Utility Classes using static methods  
+- Type Checking using `instanceof`
+
+🔗 *Code Link:*  
+👉 [Day 2 – Constructors, Static Members & Access Modifiers](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords)
+
+
