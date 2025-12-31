@@ -201,6 +201,27 @@ BridgeLabz-Training/
 - Repeats the process for **5 books** using a **for-loop**
 
   🔗 **Code Link:**  
-👉 [Day 10 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-4)
+👉 [Day 11 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-4)
 
 ---
+### 📅 Day 12 – Scenario-Based Core Java Practice  
+*(Date: 31-Dec-2025)*
+# 📘 Java Scenario-Based Programs
+
+## ⏱️ Digital Watch Simulation
+- Simulates a **24-hour digital watch**
+- Prints **hours and minutes** using **nested for-loops**
+- Displays time in **HH:MM format**
+- Uses **break** to stop execution at **13:00** (power cut simulation)
+- Demonstrates loop control and conditional logic
+
+## 🧠 Online Quiz Application
+- Conducts an **MCQ-based quiz** with **5 questions**
+- Stores questions and answers using **arrays**
+- Uses a **for-loop** to iterate through questions
+- Checks user answers with **switch-case**
+- Calculates and displays the **final score**
+- Follows clean indentation and structured code layout
+
+ 🔗 **Code Link:**  
+👉 [Day 12 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-5)
