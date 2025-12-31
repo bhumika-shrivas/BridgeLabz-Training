@@ -6,30 +6,27 @@ Each stop adds distance.
 
 import java.util.Scanner;
 
-public class BusRouteDistanceTracker
-{
-	public static void main(String [] args)
-	{
-		Scanner input = new Scanner(System.in);
-		
-		int distance = 0;
-		char  choice;
-		
-		System.out.println("\nWelcome to Bus Route Distance Tracker\n");
-		
-		do
-		{	
-			System.out.println("\nDo you want to get off at a stop (y/n): ");
-			choice = input.next().charAt(0);
-			
-			distance +=5;
-		}
-		while (choice == 'y');
-		
-		input.close();
-		
-		System.out.println("Total distance: " + distance + "km");
-	}
+public class BusRouteDistanceTracker {
+    public static void main(String[] args) {
+
+        Scanner input = new Scanner(System.in);
+
+        int distance = 0;
+        char choice;
+
+        System.out.println("Welcome to Bus Route Distance Tracker 🚌");
+
+        do {
+            // Add distance for each stop
+            distance += 5;
+            System.out.println("\nBus reached a stop. Distance covered: " + distance + " km");
+
+            System.out.print("Do you want to get off? (y/n): ");
+            choice = input.next().charAt(0);
+
+        } while (choice == 'n' || choice == 'N'); // exit when user says yes
+
+        System.out.println("\nTotal distance travelled: " + distance + " km");
+        input.close();
+    }
 }
-		
-		
