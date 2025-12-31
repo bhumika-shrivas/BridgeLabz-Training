@@ -223,5 +223,19 @@ BridgeLabz-Training/
 - Calculates and displays the **final score**
 - Follows clean indentation and structured code layout
 
+## 💱 Currency Exchange Kiosk
+- Converts **INR** to selected currency  
+- Uses **switch-case** for rates  
+- Repeats conversion using **do-while**
+
+## 🚌 Bus Route Distance Tracker
+- Tracks total distance across stops  
+- Uses **while-loop**  
+- Exits when passenger chooses to get off
+
+## 🎉 Festival Lucky Draw
+- Checks if number is divisible by **3 and 5**  
+- Uses **if**, **modulus**, and **loop**  
+
  🔗 **Code Link:**  
 👉 [Day 12 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-5)
