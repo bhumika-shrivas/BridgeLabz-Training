@@ -162,6 +162,45 @@ BridgeLabz-Training/
 
 
 🔗 **Code Link:**  
-👉 [Day 10 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+👉 [Day 10 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-3)
+
+---
+### 📅 Day 11 – Scenario-Based Core Java Practice  
+*(Date: 30-Dec-2025)*
+# 📘 Java Scenario-Based Programs
+
+## 🌡️ Temperature Logger
+- Records temperature data for **7 days**
+- Uses **array** and **for-loop**
+- Calculates **average** and **maximum** temperature
+- Uses **if conditions** for comparisons
+- Follows clean, readable naming and structure
+
+## 🚆 Train Reservation Queue
+- Simulates a basic **train ticket booking system**
+- Displays options using **switch-case**
+- Allows **multiple bookings** using a **while-loop**
+- Stops booking when seats are full using **break**
+
+## 🏋️ Sandeep’s Fitness Challenge Tracker
+- Stores daily **push-up counts for a week**
+- Uses **for-each loop** to calculate total and average
+- Skips rest days using **continue**
+- Demonstrates basic fitness tracking logic
+
+## 🎬 Movie Ticket Booking App
+- Accepts user input for **movie type, seat type, and snacks**
+- Uses **switch and if** together for decision-making
+- Handles **multiple customers** through looping
+- Maintains clean code with meaningful variable names
+
+## 📚 Rohan’s Library Reminder App
+- Calculates **fine for late book returns**
+- Takes **due date** and **return date** as input
+- Applies fine of **₹5 per day**
+- Repeats the process for **5 books** using a **for-loop**
+
+  🔗 **Code Link:**  
+👉 [Day 10 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-4)
 
 ---
