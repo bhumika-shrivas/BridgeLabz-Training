@@ -1,0 +1,27 @@
+package com.day1.onlineshopping;
+
+// Base class
+public class Product 
+{
+
+    protected int id;
+    protected String name;
+    protected double price;
+
+    public Product(int id, String name, double price) 
+    {
+        this.id = id;
+        this.name = name;
+        this.price = price;
+    }
+
+    public double getPrice() 
+    {
+        return price;
+    }
+
+    public void displayInfo() 
+    {
+        System.out.println(name + " - ₹" + price);
+    }
+}
