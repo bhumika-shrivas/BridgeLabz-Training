@@ -51,3 +51,15 @@ BridgeLabz-Training/
 👉 [Day 3 – Programming Elements](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
+
+### 🟢 Day 4 – Control Flow  
+*(19-Dec-2025)*
+- if-else, switch-case  
+- for and while loops  
+- break & continue  
+- Boolean logic and clean coding practices
+
+🔗 *Code Link:*  
+👉 [Day 4 – Java Control Flows Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+
+---
