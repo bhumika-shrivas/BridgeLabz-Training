@@ -108,3 +108,27 @@ BridgeLabz-Training/
 👉 [Day 8 – Extras Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
+
+### 🟢 Day 9 
+*(Date: 26-Dec-2025)*
+
+### Scenario-Based Core Java Practice  
+- Practiced real-world, scenario-based programming using Core Java concepts.  
+- Focused on applying conditional logic, loops, and user input handling in practical scenarios.  
+- Designed interactive programs that simulate real-life system behavior.  
+- Strengthened logical thinking, control flow, and structured program design.  
+- Followed clean coding practices including proper naming conventions, indentation, and comments.
+
+### Java OOPS Basics
+
+- Learned the basics of Object-Oriented Programming (OOP) and its advantages over Procedural Programming
+- Understood Class and Object concepts, object creation, and memory allocation
+- Practiced using constructors, attributes, and methods with real-world examples (Student, Car, TravelDetails)
+- Compared Procedural Programming vs OOP in terms of scalability, reusability, and data security
+- Followed best practices for naming conventions and modular program structure
+
+  🔗 **Code Link:**  
+👉 [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+👉 [Class and Object Basic Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+
+---
