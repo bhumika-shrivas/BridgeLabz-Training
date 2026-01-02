@@ -63,3 +63,14 @@ BridgeLabz-Training/
 👉 [Day 4 – Java Control Flows Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
+
+### 🟢 Day 5 – Arrays  
+*(20-Dec-2025)*
+- 1D and 2D arrays  
+- Array operations  
+- Input validation and error handling
+
+🔗 *Code Link:*  
+👉 [Day 5 – Java Arrays Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+
+---
