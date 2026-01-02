@@ -133,7 +133,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🟢 Day 9 - Java Constructors, Instance vs Class Variables & Access Modifiers  
+### 🟢 Day 10 - Java Constructors, Instance vs Class Variables & Access Modifiers  
 *(Date: 27-Dec-2025)*
 
 - Learned how *constructors* initialize objects in Java  
@@ -146,7 +146,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🟢 Day 10 – Scenario-Based Core Java 
+### 🟢 Day 11 – Scenario-Based Core Java 
 *(29-Dec-2025)*
 - Shopkeeper Discount System  
 - Bus Attendance System  
