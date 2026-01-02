@@ -11,5 +11,32 @@ This repository documents my **BridgeLabz Java Training**, organized **day-wise 
 - Installed and configured Git  
 - Created GitHub repository  
 - Learned basic Git commands (init, clone, add, commit, push)
+  
+```text
+BridgeLabz-Training/
+│── core-java-practice/
+│   │── gcr-codebase/
+│   │   │── arrays/
+│   │   │── control-flow/
+│   │   │── extras/
+│   │   │── methods/
+│   │   │── programming-elements/
+│   │   │── programming-requisites/
+│   │   │── strings/
+│   │── leet-code-codebase/
+│   │── scenario-based-codebase/
+│── README.md
+```
+
+---
+
+### 🟢 Day 2 – Java Basics & Git Practice  
+*(17-Dec-2025)*
+- Java syntax and program structure  
+- Basic input/output  
+- Practiced Git workflow with Java programs  
+
+🔗 *Code Link:*  
+👉 [Day 2 – Basic Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisite)
 
 ---
