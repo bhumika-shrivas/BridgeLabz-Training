@@ -86,3 +86,14 @@ BridgeLabz-Training/
 👉 [Day 6 – Java Methods Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
+
+### 🟢 Day 7 – Strings & Exceptions  
+*(23-Dec-2025)*
+- String creation and manipulation  
+- String methods and ASCII concepts  
+- Checked and unchecked exceptions  
+
+🔗 *Code Link:*  
+👉 [Day 7 – Java Strings Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+
+---
