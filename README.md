@@ -97,3 +97,14 @@ BridgeLabz-Training/
 👉 [Day 7 – Java Strings Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 ---
+
+### 🟢 Day 8 – Extras  
+*(24-Dec-2025)*
+- Advanced string handling  
+- Built-in functions (Math, Random)  
+- Date & Time API (`java.time`)  
+
+🔗 *Code Link:*  
+👉 [Day 8 – Extras Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+
+---
