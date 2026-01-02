@@ -132,3 +132,27 @@ BridgeLabz-Training/
 👉 [Class and Object Basic Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
+
+### 🟢 Day 9 - Java Constructors, Instance vs Class Variables & Access Modifiers  
+*(Date: 27-Dec-2025)*
+
+- Learned how *constructors* initialize objects in Java  
+- Practiced *parameterized constructors* using real-world examples  
+- Understood the difference between *instance variables* and *class (static) variables*  
+- Used *static methods* to handle shared data  
+- Learned and applied *access modifiers* (public, protected, private)  
+- Implemented *encapsulation* using getters and setters  
+- Practiced *inheritance* to demonstrate access control
+
+---
+
+### 🟢 Day 10 – Scenario-Based Core Java 
+*(29-Dec-2025)*
+- Shopkeeper Discount System  
+- Bus Attendance System  
+- Mobile Recharge System  
+
+🔗 **Code Link:**  
+👉 [Day 10 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-3)
+
+---
