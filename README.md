@@ -196,3 +196,41 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 👉 [Object Oriented Designing, Modelling & Relations](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
 
+---
+
+### 🟢 Day 13 – Scenario-Based Core Java
+*(31-Dec-2025)*
+
+## ⏱️ Digital Watch Simulation
+- 24-hour watch using nested loops (HH:MM)
+- Stops at 13:00 using `break`
+
+## 🧠 Online Quiz Application
+- 5-question MCQ quiz using arrays
+- Uses loops, switch-case, and score calculation
+
+## 💱 Currency Exchange Kiosk
+- INR to currency conversion
+- switch-case rates with do-while repetition
+
+## 🚌 Bus Route Distance Tracker
+- Tracks distance using while-loop
+- Exits on passenger choice
+
+## 🎉 Festival Lucky Draw
+- Checks divisibility by 3 & 5
+- Uses if conditions and loops
+
+🔗 **Code Link:**  
+👉 [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-5)
+
+- Practiced **Inheritance concepts** using real-world Java examples  
+- Implemented **Single, Multilevel, Hierarchical, and Hybrid inheritance**
+- Covered method overriding, polymorphism, and interfaces
+- Solved scenarios like **Animal Hierarchy, Employee System, Vehicles, Banking, School Roles**
+- Learned **best practices**: is-a relationship, LSP, avoiding deep hierarchies
+
+🔗 *Code Link:*  
+👉 [Inheritance](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+---
