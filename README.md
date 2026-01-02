@@ -74,3 +74,15 @@ BridgeLabz-Training/
 👉 [Day 5 – Java Arrays Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
+
+### 🟢 Day 6 – Methods  
+*(22-Dec-2025)*
+- User-defined methods  
+- Static and recursive methods  
+- Math library usage  
+- Modular programming
+
+🔗 *Code Link:*  
+👉 [Day 6 – Java Methods Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+
+---
