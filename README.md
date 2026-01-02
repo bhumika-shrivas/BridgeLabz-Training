@@ -153,6 +153,46 @@ BridgeLabz-Training/
 - Mobile Recharge System  
 
 🔗 **Code Link:**  
-👉 [Day 10 – Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-3)
+👉 [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-3)
+
+- Learned core Java keywords: `this`, `static`, `final`, `instanceof`
+- Used `this` to refer to the current object and resolve variable ambiguity
+- Practiced constructor chaining with `this()`
+- Implemented `static` variables, methods, and static blocks
+- Understood static method limitations (no instance access, no overriding)
+- Applied `final` to create constants, prevent overriding, and restrict inheritance
+- Used `instanceof` for type checking and safe downcasting
+- Built programs like Employee Constructor Demo, Student Counter, Bank Interest Calculator, Utility Classes, and Type Checking examples
+
 
 ---
+
+### 🟢 Day 12 – Scenario-Based Core Java
+*(30-Dec-2025)*
+- Temperature Logger  
+- Train Reservation Queue  
+- Fitness Tracker  
+- Movie Ticket Booking  
+- Library Fine Calculator
+
+🔗 **Code Link:**  
+👉 [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-4)
+
+- Studied and practiced **object modelling and relationships**
+  
+### 📘 Classes vs Objects in Java
+- A **Class** is a blueprint that defines properties and methods.
+- An **Object** is an instance of a class with actual values.
+- Classes define structure; objects represent real-world entities.
+- Class metadata is stored in the **Method Area**, objects in the **Heap**.
+- One class can create **multiple objects**.
+### 📘 Object Relationships (Java)
+- Demonstrates **Association** between Course–Teacher and Course–Students  
+- Shows **Aggregation** where School manages multiple Courses  
+- Objects communicate via method calls  
+- Models real-world school relationships using Core Java
+
+
+🔗 *Code Link:*  
+👉 [Object Oriented Designing, Modelling & Relations](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
