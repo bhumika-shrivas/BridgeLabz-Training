@@ -71,6 +71,41 @@ and safe downcasting in polymorphism
 - Type Checking using `instanceof`
 
 🔗 *Code Link:*  
-👉 [Day 2 – Constructors, Static Members & Access Modifiers](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords)
+👉 [Day 3 – Java Keywords Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords)
+
+---
+
+### 📘 Day 4 – Object Oriented Design Principles, Object Modelling & Relations  
+**Date:** 30-Dec-2025
+
+- Studied and practiced **object modelling and relationships**
+  
+### 📘 Classes vs Objects in Java
+- A **Class** is a blueprint that defines properties and methods.
+- An **Object** is an instance of a class with actual values.
+- Classes define structure; objects represent real-world entities.
+- Class metadata is stored in the **Method Area**, objects in the **Heap**.
+- One class can create **multiple objects**.
+### 📘 Object Relationships (Java)
+- Demonstrates **Association** between Course–Teacher and Course–Students  
+- Shows **Aggregation** where School manages multiple Courses  
+- Objects communicate via method calls  
+- Models real-world school relationships using Core Java
 
 
+🔗 *Code Link:*  
+👉 [Day 4 – Object Oriented Designing, Modelling & Relations](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+
+---
+
+### 📘 Day 5 – Inheritance  
+**Date:** 31-Dec-2025
+
+- Practiced **Inheritance concepts** using real-world Java examples  
+- Implemented **Single, Multilevel, Hierarchical, and Hybrid inheritance**
+- Covered method overriding, polymorphism, and interfaces
+- Solved scenarios like **Animal Hierarchy, Employee System, Vehicles, Banking, School Roles**
+- Learned **best practices**: is-a relationship, LSP, avoiding deep hierarchies
+
+🔗 *Code Link:*  
+👉 [Day 5 – Inheritance](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
