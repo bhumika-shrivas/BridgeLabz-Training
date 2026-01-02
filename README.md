@@ -40,3 +40,14 @@ BridgeLabz-Training/
 👉 [Day 2 – Basic Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisite)
 
 ---
+
+### 🟢 Day 3 – Programming Elements  
+*(18-Dec-2025)*
+- Variables and data types  
+- Operators  
+- User input using Scanner
+
+  🔗 *Code Link:*  
+👉 [Day 3 – Programming Elements](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+---
