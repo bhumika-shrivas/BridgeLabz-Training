@@ -110,9 +110,6 @@ and safe downcasting in polymorphism
 🔗 *Code Link:*  
 👉 [Day 5 – Inheritance](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
-🔗 *Code Link:*  
-👉 [Scenario - Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day1)
-
 --- 
 
 ### 📘 Day 6 - Encapsulation
@@ -138,6 +135,13 @@ and safe downcasting in polymorphism
 
 🔗 *Code Link:*  
 👉 [Day 6 - Encapsulation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+🔗 *Code Link:*  
+👉 [Scenario - Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day1)
+
+---
+
+### 📘 Day 7 - OOPS scenario - based programs
+**Date:** 02- Jan-2026
 
 ## Scenario - Based Implementations
 Hospital Management • Vehicle Rental • University Enrollment •  
