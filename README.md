@@ -109,3 +109,45 @@ and safe downcasting in polymorphism
 
 🔗 *Code Link:*  
 👉 [Day 5 – Inheritance](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+--- 
+
+### 📘 Day 6 - Encapsulation
+**Date:** 01- Jan-2026
+
+## 🔑 Concepts Covered
+- **Encapsulation** – Private fields with getters/setters and data protection  
+- **Abstraction** – Abstract classes and methods  
+- **Inheritance** – Code reuse through subclassing  
+- **Polymorphism** – Dynamic behavior using base class references  
+- **Interfaces** – Defining contracts and multiple behaviors  
+- **Clean Code Practices** – Naming conventions, readability, maintainability  
+
+## 📂 Implemented Case Studies
+1. **Employee Management System** – Salary calculation using abstract classes & interfaces  
+2. **E-Commerce Platform** – Discount and tax calculation using polymorphism  
+3. **Vehicle Rental System** – Rental & insurance cost handling  
+4. **Banking System** – Interest calculation and loan eligibility  
+5. **Library Management System** – Loan duration & reservation handling  
+6. **Online Food Delivery System** – Order processing with discounts  
+7. **Hospital Patient Management System** – Billing & medical records  
+8. **Ride-Hailing Application** – Fare calculation based on vehicle type  
+
+🔗 *Code Link:*  
+👉 [Day 6 - Encapsulation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+🔗 *Code Link:*  
+👉 [Scenario - Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day1)
+
+---
+
+### 📘 Day 7 - OOPS scenario - based programs
+**Date:** 02- Jan-2026
+
+## Scenario - Based Implementations
+Hospital Management • Vehicle Rental • University Enrollment •  
+E-Wallet System • Smart Home Automation
+
+🔗 *Code Link:*  
+👉 [Scenario - Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day2)
+
+---
