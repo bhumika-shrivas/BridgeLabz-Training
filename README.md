@@ -75,6 +75,8 @@ BridgeLabz-Training/
 
 ---
 
+## 📅 Week 2 – Core Java Fundamentals and OOPS Concepts
+
 ### 🟢 Day 6 – Methods  
 *(22-Dec-2025)*
 - User-defined methods  
@@ -149,6 +151,8 @@ BridgeLabz-Training/
 
 ---
 
+## 📅 Week 3 – OOPS Concepts and Data Structures
+
 ### 🟢 Day 11 – Scenario-Based Core Java 
 *(29-Dec-2025)*
 - Shopkeeper Discount System  
@@ -166,7 +170,6 @@ BridgeLabz-Training/
 - Applied `final` to create constants, prevent overriding, and restrict inheritance
 - Used `instanceof` for type checking and safe downcasting
 - Built programs like Employee Constructor Demo, Student Counter, Bank Interest Calculator, Utility Classes, and Type Checking examples
-
 
 ---
 
@@ -250,6 +253,13 @@ Employee Management • E-Commerce • Vehicle Rental • Banking •
 Library Management • Food Delivery • Hospital Management • Ride-Hailing
 
 🔗 **Code:** [Encapsulation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+🔗 **Code:** [Scenario - based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day1)
+
+---
+
+### 🟢 Day 15 – OOPS Scenario - Based Programs
+*(02-Jan-2026)*
 
 ## 🧩 Scenario-Based Programs
 Hospital Management • Vehicle Rental • University Enrollment •  
