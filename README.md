@@ -144,6 +144,9 @@ BridgeLabz-Training/
 - Implemented *encapsulation* using getters and setters  
 - Practiced *inheritance* to demonstrate access control
 
+🔗 **Code Link:**  
+👉 [Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
+
 ---
 
 ### 🟢 Day 11 – Scenario-Based Core Java 
@@ -167,7 +170,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🟢 Day 12 – Scenario-Based Core Java
+### 🟢 Day 12 – Object modelling andScenario-Based Programs
 *(30-Dec-2025)*
 - Temperature Logger  
 - Train Reservation Queue  
@@ -198,7 +201,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🟢 Day 13 – Scenario-Based Core Java
+### 🟢 Day 13 – Inheritance and Scenario-Based Programs
 *(31-Dec-2025)*
 
 ## ⏱️ Digital Watch Simulation
@@ -232,5 +235,26 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 👉 [Inheritance](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+---
+
+### 🟢 Day 14 – Encapsulation and Scenario - Based Programs
+*(01-Jan-2026)*
+
+## 🔑 Concepts Covered
+Encapsulation (private fields, getters/setters) • Abstraction • Inheritance •  
+Polymorphism • Interfaces • Clean Code Practices
+
+## 📂 Case Studies Implemented
+Employee Management • E-Commerce • Vehicle Rental • Banking •  
+Library Management • Food Delivery • Hospital Management • Ride-Hailing
+
+🔗 **Code:** [Encapsulation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+## 🧩 Scenario-Based Programs
+Hospital Management • Vehicle Rental • University Enrollment •  
+E-Wallet System • Smart Home Automation
+
+🔗 **Code:** [Scenario-Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day2)
 
 ---
