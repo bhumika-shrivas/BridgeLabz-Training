@@ -1,6 +1,6 @@
 ## Data Structure and Algorithms
 
-# 📅 Day 1 – Java OOPS Basics
+# 📅 Day 1 – Data Structure 
 *(Date: 02-Jan-2025)*
 
 ### 📘 Linked List Practice
