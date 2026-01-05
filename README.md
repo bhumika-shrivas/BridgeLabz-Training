@@ -1,9 +1,9 @@
 ## Data Structure and Algorithms
 
-### 📅 Day 1 – Java OOPS Basics
+# 📅 Day 1 – Java OOPS Basics
 *(Date: 02-Jan-2025)*
 
-# 📘 Linked List Practice
+### 📘 Linked List Practice
 
 Java programs implementing **Singly, Doubly, and Circular Linked Lists** using real-world scenarios.
 
