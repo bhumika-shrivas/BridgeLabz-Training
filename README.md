@@ -267,4 +267,36 @@ E-Wallet System • Smart Home Automation
 
 🔗 **Code:** [Scenario-Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day2)
 
+### 🔹 Linked List Based Systems
+- Student Record Management (Singly Linked List)  
+- Inventory Management System (Singly Linked List)  
+- Movie Management System (Doubly Linked List)  
+- Library Management System (Doubly Linked List)  
+- Task Scheduler (Circular Linked List)  
+- Round Robin CPU Scheduling (Circular Linked List)  
+- Undo/Redo Text Editor (Doubly Linked List)  
+- Online Ticket Reservation System (Circular Linked List)  
+- Social Media Friend Connections (Singly Linked List)
+
+🔗 **Code:** [Scenario-Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linkedlist)
+
+---
+
+### 🟢 Day 16 – OOPS Scenario - Based Programs
+*(03-Jan-2026)*
+
+### 🔹 OOPS-Based Systems
+- **CabbyGo – Ride-Hailing App Backend**
+- **MyBank – Customer Account Management**
+
+### 🔑 Concepts Covered
+- OOPS: Classes, Inheritance, Interfaces, Polymorphism, Encapsulation  
+- Data Structures: Singly, Doubly & Circular Linked Lists  
+- Constructors, Operators & Access Modifiers  
+
+🎯 Focused on **real-world problem modeling**, **clean coding**, and **Core Java fundamentals**.
+
+🔗 *Code Link:*  
+👉 [Java Scenario-Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day3)
+
 ---
