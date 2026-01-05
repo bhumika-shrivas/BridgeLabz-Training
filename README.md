@@ -156,7 +156,7 @@ E-Wallet System • Smart Home Automation
 **Date:** 03-Jan-2026
 
 ## Scenario-Based Implementations
-**CabbyGo – Ride-Hailing App Backend** •  
+**CabbyGo – Ride-Hailing App Backend** 
 **MyBank – Customer Account Management**
 
 ### 🔧 Key Concepts Used
