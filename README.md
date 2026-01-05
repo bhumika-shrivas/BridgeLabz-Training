@@ -20,6 +20,6 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Online Ticket Reservation  
 
 🔗 *Code Link:*  
-👉 [Day 1 – Linked List]([https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linkedlist)
+👉 [Day 1 – Linked List](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
