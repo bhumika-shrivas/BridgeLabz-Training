@@ -151,3 +151,23 @@ E-Wallet System • Smart Home Automation
 👉 [Scenario - Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day2)
 
 ---
+
+### 📘 Day 8 - OOPS Scenario-Based Programs
+**Date:** 03-Jan-2026
+
+## Scenario-Based Implementations
+**CabbyGo – Ride-Hailing App Backend** 
+**MyBank – Customer Account Management**
+
+### 🔧 Key Concepts Used
+- Classes & Objects  
+- Inheritance & Polymorphism  
+- Interfaces  
+- Encapsulation  
+- Constructors  
+- Operators & Access Modifiers  
+
+🔗 *Code Link:*  
+👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day3)
+
+---
