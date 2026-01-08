@@ -320,3 +320,25 @@ E-Wallet System • Smart Home Automation
 👉 [Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day4)
 
 ---
+
+### 🟢 Day 18 – Practiced StringBuffer, StringBuilder, File Handling & Searching Algorithms and Oops-based Scenario problems
+*(06-Jan-2026)*
+
+- Learned StringBuilder for mutable and fast string operations (non-synchronized)
+- Studied StringBuffer for thread-safe string manipulation (synchronized)
+- Understood differences between String, StringBuilder, and StringBuffer
+- Practiced FileReader to read data from files using character streams
+- Implemented Linear Search to find elements by sequential traversal
+- Practiced Binary Search on sorted data for efficient searching
+- Practised oops-based scenario problems, including: Event Management, Fitness Tracker, Personalized Learning, and Virtual Pet Care
+- Applied core OOP concepts: Encapsulation, Inheritance, Abstraction, Polymorphism
+
+🔗 *Code Links:* 
+👉 [Binary Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/binaryserach)
+👉 [Linear Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearserach)
+👉 [StringBuffer](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuffer)
+👉 [StringBuilder](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuilder)
+👉 [File Reader](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/filereader)
+👉 [Input Stream Reader](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/inputstreamreader)
+
+👉 [Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day5)
