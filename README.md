@@ -55,3 +55,22 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 
 ---
 
+# 📅 Day 4 –  Strings, File Handling & Searching Algorithms
+*(Date: 06-Jan-2025)*
+
+- Learned StringBuilder for mutable and fast string operations (non-synchronized)
+- Studied StringBuffer for thread-safe string manipulation (synchronized)
+- Understood differences between String, StringBuilder, and StringBuffer
+- Practiced FileReader to read data from files using character streams
+- Implemented Linear Search to find elements by sequential traversal
+- Practiced Binary Search on sorted data for efficient searching
+
+🔗 *Code Link:*  
+👉 [Binary Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/binaryserach)
+[Linear Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearserach)
+[StringBuffer](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuffer)
+[StringBuilder](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuilder)
+[File Reader](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/filereader)
+[Input Stream Reader](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/inputstreamreader)
+
+---
