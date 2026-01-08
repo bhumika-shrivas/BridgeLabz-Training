@@ -171,3 +171,16 @@ E-Wallet System • Smart Home Automation
 👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day3)
 
 ---
+
+### 📘 Day 9 - OOPS Scenario-Based Programs
+**Date:** 05-Jan-2026
+
+- Designed CampusConnect college system using OOP concepts (inheritance, encapsulation, interfaces, polymorphism)
+- Implemented student–faculty–course management with GPA calculation
+- Designed SwiftCart grocery shopping app backend for cart and billing
+- Applied secure price handling, polymorphic discounts, and item-wise bill generation
+
+🔗 *Code Link:*  
+👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day4)
+
+---
