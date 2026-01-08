@@ -22,7 +22,7 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 
 ---
 
-# 📅 Day 1 –  Stack, Queue and HashMaps
+# 📅 Day 2 –  Stack, Queue and HashMaps
 *(Date: 03-Jan-2025)*
 
 - Learned Stack data structure and implemented operations like push, pop, peek using LIFO principle
@@ -35,6 +35,23 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 🔗 *Code Link:*  
 👉 [Day 2 – Stack and Queue](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stackandqueue)
 👉 [Day 2 – HashMaps](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/hashmaps)
+
+---
+
+# 📅 Day 3 –  Sorting Algorithms
+*(Date: 05-Jan-2025)*
+
+- Learned Sorting Algorithms to arrange data efficiently in ascending order
+- Implemented Bubble Sort using repeated adjacent comparisons and swaps
+- Practiced Selection Sort by selecting the minimum element for correct placement
+- Studied Insertion Sort by inserting elements into their correct position in a sorted part
+- Implemented Merge Sort using divide-and-conquer technique
+- Practiced Quick Sort using pivot-based partitioning and recursion
+- Learned Heap Sort using heap data structure for efficient sorting
+- Implemented Counting Sort as a non-comparison-based sorting algorithm
+
+🔗 *Code Link:*  
+👉 [Day 3 – Sorting Algorithm](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
 
 ---
 
