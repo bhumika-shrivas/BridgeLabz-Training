@@ -346,7 +346,7 @@ E-Wallet System • Smart Home Automation
 ---
 
 ### 🟢 Day 19 – Algorithm's Runtime Analysis & Big-O Notation and Oops-based Scenario problems
-*(06-Jan-2026)*
+*(07-Jan-2026)*
 
 - Compared Linear Search (O(N)) vs Binary Search (O(log N)), showing how binary search drastically reduces search time for large, sorted datasets.
 - Analyzed Bubble Sort (O(N²)) vs Merge Sort & Quick Sort (O(N log N)), highlighting why quadratic algorithms fail at scale.
@@ -359,5 +359,25 @@ E-Wallet System • Smart Home Automation
 🔗 *Code Links:* 
 👉 [Algorithm Analysis and Big-O Notation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/algorithmanalysis)
 👉 [Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day6)
+
+---
+
+### 🟢 Day 19 – Oops-based Scenario problems
+*(08-Jan-2026)*
+
+### MediStore – Pharmacy Inventory & Sales System
+- Manages medicine stock, sales, and expiry tracking
+- Uses inheritance, interfaces, and encapsulation
+- Applies polymorphism for different expiry rules
+- Calculates cost, discounts, and stock updates
+
+### TourMate – Travel Itinerary Planner
+- Plans complete travel packages with transport, hotel, and activities
+- Uses OOP concepts like inheritance and polymorphism
+- Encapsulates service costs and calculates total budget
+- Supports different booking logic for trip types
+
+🔗 *Code Link:*  
+👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day7)
 
 ---
