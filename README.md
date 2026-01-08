@@ -282,7 +282,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 🟢 Day 16 – OOPS Scenario - Based Programs
+### 🟢 Day 16 – Practiced Stack, Queue and HashMap and OOPS Scenario Based Programs
 *(03-Jan-2026)*
 
 ### 🔹 OOPS-Based Systems
@@ -297,6 +297,26 @@ E-Wallet System • Smart Home Automation
 🎯 Focused on **real-world problem modeling**, **clean coding**, and **Core Java fundamentals**.
 
 🔗 *Code Link:*  
+👉 [Stacks, Queues, and Hashmaps](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com)
+🔗 *Code Link:*  
 👉 [Java Scenario-Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day3)
+
+---
+
+### 🟢 Day 17 – Sorting Algorithms Practice and Oops-based Scenario problems
+*(05-Jan-2026)*
+
+- Practiced Bubble Sort by sorting student marks using repeated adjacent comparisons and swaps
+- Implemented Insertion Sort to arrange employee IDs by inserting elements into their correct position in a sorted portion
+- Applied Merge Sort on book prices using divide-and-conquer with recursive splitting and merging
+- Implemented Quick Sort for product prices using pivot-based partitioning and recursive sorting
+- Solved Selection Sort by repeatedly selecting the minimum exam score and placing it in order
+- Used Heap Sort to sort job applicants’ salary expectations by building and maintaining a heap structure
+- Implemented Counting Sort to sort student ages efficiently using frequency counting (limited range data)
+- Practised oops-based scenario problems, including College Information System and Grocery Shopping App
+
+🔗 *Code Link:*  
+👉 [Sorting Algorithms](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
+👉 [Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day4)
 
 ---
