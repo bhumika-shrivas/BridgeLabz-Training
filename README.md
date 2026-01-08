@@ -342,3 +342,22 @@ E-Wallet System • Smart Home Automation
 👉 [Input Stream Reader](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/inputstreamreader)
 
 👉 [Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day5)
+
+---
+
+### 🟢 Day 19 – Algorithm's Runtime Analysis & Big-O Notation and Oops-based Scenario problems
+*(06-Jan-2026)*
+
+- Compared Linear Search (O(N)) vs Binary Search (O(log N)), showing how binary search drastically reduces search time for large, sorted datasets.
+- Analyzed Bubble Sort (O(N²)) vs Merge Sort & Quick Sort (O(N log N)), highlighting why quadratic algorithms fail at scale.
+- Evaluated String vs StringBuilder vs StringBuffer for concatenation, demonstrating why mutable strings are essential for performance.
+- Studied FileReader vs InputStreamReader for large file handling, observing better efficiency with byte-based streams.
+- Compared Recursive vs Iterative Fibonacci, proving that exponential recursion is infeasible for large inputs.
+- Measured lookup performance of Array, HashSet, and TreeSet, concluding HashSet as fastest and TreeSet useful when ordering is required.
+- Practised oops-based scenario problems, including: Digital Bookstore System, Loan Approval Automation, and Smart Parking System
+
+🔗 *Code Links:* 
+👉 [Algorithm Analysis and Big-O Notation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/algorithmanalysis)
+👉 [Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day6)
+
+---
