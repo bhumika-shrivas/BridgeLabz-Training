@@ -215,13 +215,13 @@ E-Wallet System • Smart Home Automation
 ### 📘 Day 12 - OOPS Scenario-Based Programs
 **Date:** 08-Jan-2026
 
-###MediStore – Pharmacy Inventory & Sales System
+### MediStore – Pharmacy Inventory & Sales System
 - Manages medicine stock, sales, and expiry tracking
 - Uses inheritance, interfaces, and encapsulation
 - Applies polymorphism for different expiry rules
 - Calculates cost, discounts, and stock updates
 
-###TourMate – Travel Itinerary Planner
+### TourMate – Travel Itinerary Planner
 - Plans complete travel packages with transport, hotel, and activities
 - Uses OOP concepts like inheritance and polymorphism
 - Encapsulates service costs and calculates total budget
