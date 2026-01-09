@@ -242,10 +242,10 @@ E-Wallet System • Smart Home Automation
 - Licensing behavior varies by art type
 
 🍽️ FoodLoop – Restaurant Ordering System
-Order food items and combo meals
-Total price & discounts via operators
-Veg/Non-Veg inheritance
-Discount logic handled using polymorphism
+- Order food items and combo meals
+- Total price & discounts via operators
+- Veg/Non-Veg inheritance
+- Discount logic handled using polymorphism
 
 🎓 SkillForge – Online Learning Portal
 - Students enroll, instructors create courses
