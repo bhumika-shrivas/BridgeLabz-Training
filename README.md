@@ -381,3 +381,17 @@ E-Wallet System • Smart Home Automation
 👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day7)
 
 ---
+
+### 🟢 Day 20 – Oops-based Scenario problems
+*(09-Jan-2026)*
+
+- 🎨 **Artify:** Digital/print art marketplace with purchase, licensing, and polymorphism  
+- 🍽️ **FoodLoop:** Food ordering system with combo meals, discounts, and inheritance  
+- 🎓 **SkillForge:** Online learning portal with courses, progress tracking, and certificates  
+
+✅ Demonstrates core **Java OOP concepts** using real-world scenarios  
+
+🔗 **Code Link:**  
+👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day8)
+
+---
