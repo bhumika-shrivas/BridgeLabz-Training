@@ -211,3 +211,23 @@ E-Wallet System • Smart Home Automation
 👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day6)
 
 ---
+
+### 📘 Day 12 - OOPS Scenario-Based Programs
+**Date:** 08-Jan-2026
+
+### MediStore – Pharmacy Inventory & Sales System
+- Manages medicine stock, sales, and expiry tracking
+- Uses inheritance, interfaces, and encapsulation
+- Applies polymorphism for different expiry rules
+- Calculates cost, discounts, and stock updates
+
+### TourMate – Travel Itinerary Planner
+- Plans complete travel packages with transport, hotel, and activities
+- Uses OOP concepts like inheritance and polymorphism
+- Encapsulates service costs and calculates total budget
+- Supports different booking logic for trip types
+
+🔗 *Code Link:*  
+👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day7)
+
+---
