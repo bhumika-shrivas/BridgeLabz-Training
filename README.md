@@ -89,3 +89,21 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 👉 [Day 5 – Algorithm Analysis](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/algorithmanalysis)
 
 ---
+
+# 📅 Day 6 –  Algorithm's Runtime Analysis and Big-O Notation
+*(Date: 10-Jan-2025)*
+
+📚 **BookShelf**: Library organizer using HashMap + LinkedList for genre-wise book management  
+🌐 **BrowserBuddy**: Tab history manager using Doubly Linked List + Stack with back/forward navigation  
+🚑 **AmbulanceRoute**: Emergency patient navigation system using Circular Linked List  
+
+✅ Demonstrates practical use of core Data Structures:
+- Singly, Doubly & Circular Linked Lists  
+- Stack & Queue concepts  
+- HashMap & HashSet usage  
+- Real-world problem-solving with efficient data handling  
+
+🔗 *Code Link:*
+👉 [Day 6 - Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
+
+---
