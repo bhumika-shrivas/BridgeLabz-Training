@@ -395,3 +395,21 @@ E-Wallet System • Smart Home Automation
 👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day8)
 
 ---
+
+### 🟢 Day 21 – Data Structures–based Scenario Problems  
+*(10-Jan-2026)*
+
+📚 **BookShelf**: Library organizer using HashMap + LinkedList for genre-wise book management  
+🌐 **BrowserBuddy**: Tab history manager using Doubly Linked List + Stack with back/forward navigation  
+🚑 **AmbulanceRoute**: Emergency patient navigation system using Circular Linked List  
+
+✅ Demonstrates practical use of core Data Structures:
+- Singly, Doubly & Circular Linked Lists  
+- Stack & Queue concepts  
+- HashMap & HashSet usage  
+- Real-world problem-solving with efficient data handling  
+
+🔗 **Code Link:** 
+👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
+
+---
