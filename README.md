@@ -259,3 +259,19 @@ E-Wallet System • Smart Home Automation
 👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day8)
 
 ---
+
+### 📘 Day 14 - Demonstrates advanced Core Java OOP concepts
+**Date:** 12-Jan-2026
+
+- Inheritance & hierarchical class design  
+- Interfaces for controllable/analyzable behaviors  
+- Encapsulation for secure data handling  
+- Constructor-based object initialization  
+- Operator usage for calculations and offers  
+- Runtime polymorphism with device-, budget-, and genre-specific behavior  
+- Access modifiers for system and security controls  
+
+🔗 **Code Link:** 
+👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day9)
+
+---
