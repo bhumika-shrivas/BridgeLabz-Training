@@ -410,6 +410,25 @@ E-Wallet System • Smart Home Automation
 - Real-world problem-solving with efficient data handling  
 
 🔗 **Code Link:** 
-👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
+👉 [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
 
 ---
+
+### 🟢 Day 22 – Data Structures–based Scenario Problems  
+*(Date: 12-Jan-2025)*
+
+📞 **CallCenter**: Customer queue manager using Queue, PriorityQueue, and HashMap  
+🚆 **TrainCompanion**: Train compartment navigation system using Doubly Linked List  
+📝 **TextEditor**: Undo/Redo functionality using Stack-based action tracking  
+🚦 **TrafficManager**: Smart roundabout vehicle flow using Circular Linked List + Queue  
+📚 **BookShelf**: Library organizer using HashMap + LinkedList for genre-wise book management  
+
+✅ Covers advanced Data Structure concepts through real-world simulations:
+- Queue & Priority Queue handling  
+- Stack-based Undo/Redo mechanisms  
+- Doubly & Circular Linked List traversal  
+- HashMap for tracking user and system data  
+- Dynamic insertion, deletion, and state management  
+
+🔗 *Code Link:*
+👉 [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day2)
