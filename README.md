@@ -90,7 +90,7 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 
 ---
 
-# 📅 Day 6 –  Algorithm's Runtime Analysis and Big-O Notation
+# 📅 Day 6 –  DSA Scenario Based Programs
 *(Date: 10-Jan-2025)*
 
 📚 **BookShelf**: Library organizer using HashMap + LinkedList for genre-wise book management  
@@ -105,5 +105,26 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 
 🔗 *Code Link:*
 👉 [Day 6 - Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
+
+---
+
+# 📅 Day 7 –  DSA Scenario Based Programs
+*(Date: 12-Jan-2025)*
+
+📞 **CallCenter**: Customer queue manager using Queue, PriorityQueue, and HashMap  
+🚆 **TrainCompanion**: Train compartment navigation system using Doubly Linked List  
+📝 **TextEditor**: Undo/Redo functionality using Stack-based action tracking  
+🚦 **TrafficManager**: Smart roundabout vehicle flow using Circular Linked List + Queue  
+📚 **BookShelf**: Library organizer using HashMap + LinkedList for genre-wise book management  
+
+✅ Covers advanced Data Structure concepts through real-world simulations:
+- Queue & Priority Queue handling  
+- Stack-based Undo/Redo mechanisms  
+- Doubly & Circular Linked List traversal  
+- HashMap for tracking user and system data  
+- Dynamic insertion, deletion, and state management  
+
+🔗 *Code Link:*
+👉 [Day 7 - Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day2)
 
 ---
