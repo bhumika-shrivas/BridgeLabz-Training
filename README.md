@@ -432,3 +432,21 @@ E-Wallet System • Smart Home Automation
 
 🔗 *Code Link:*
 👉 [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day2)
+
+🏠 **HomeNest**: Smart home device manager using inheritance, interfaces, and polymorphism  
+💰 **BudgetWise**: Personal finance tracker with budgets, transactions, and analytical reports  
+🎮 **GameBox**: Mobile game distribution platform with downloads, demos, and offers  
+
+✅ Demonstrates advanced Core Java OOP concepts:
+- Inheritance & hierarchical class design  
+- Interfaces for controllable/analyzable behaviors  
+- Encapsulation for secure data handling  
+- Constructor-based object initialization  
+- Operator usage for calculations and offers  
+- Runtime polymorphism with device-, budget-, and genre-specific behavior  
+- Access modifiers for system and security controls  
+
+🔗 **Code Link:** 
+👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day9)
+
+---
