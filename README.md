@@ -17,8 +17,7 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Undo/Redo Text Editor  
 - Online Ticket Reservation  
 
-🔗 *Code Link:*  
-👉 [Day 1 – Linked List](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+🔗 **Code Link:** [Day 1 – Linked List](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
 
@@ -32,7 +31,7 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Understood Hash Functions, hashing mechanism, and collision handling concepts
 - Solved basic problems using HashMap such as frequency counting and lookup-based logic
 
-🔗 *Code Link:*  
+🔗 **Code Links:**  
 👉 [Day 2 – Stack and Queue](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stackandqueue)
 👉 [Day 2 – HashMaps](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/hashmaps)
 
@@ -50,8 +49,7 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Learned Heap Sort using heap data structure for efficient sorting
 - Implemented Counting Sort as a non-comparison-based sorting algorithm
 
-🔗 *Code Link:*  
-👉 [Day 3 – Sorting Algorithm](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
+🔗 **Code Link:** [Day 3 – Sorting Algorithm](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
 
 ---
 
@@ -65,7 +63,7 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Implemented Linear Search to find elements by sequential traversal
 - Practiced Binary Search on sorted data for efficient searching
 
-🔗 *Code Link:*  
+🔗 **Code Links:**  
 👉 [Binary Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/binaryserach)
    [Linear Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearserach)
    [StringBuffer](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuffer)
@@ -85,8 +83,7 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Compared Recursive vs Iterative Fibonacci, proving that exponential recursion is infeasible for large inputs.
 - Measured lookup performance of Array, HashSet, and TreeSet, concluding HashSet as fastest and TreeSet useful when ordering is required.
 
-🔗 *Code Link:*  
-👉 [Day 5 – Algorithm Analysis](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/algorithmanalysis)
+🔗 **Code Link:** [Day 5 – Algorithm Analysis](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/algorithmanalysis)
 
 ---
 
@@ -103,8 +100,7 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - HashMap & HashSet usage  
 - Real-world problem-solving with efficient data handling  
 
-🔗 *Code Link:*
-👉 [Day 6 - Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
+🔗 **Code Link:** [Day 6 - Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
 
 ---
 
@@ -124,7 +120,25 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - HashMap for tracking user and system data  
 - Dynamic insertion, deletion, and state management  
 
-🔗 *Code Link:*
-👉 [Day 7 - Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day2)
+🔗 **Code Link:** [Day 7 - Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day2)
+
+---
+
+# 📅 Day 8 –  DSA Scenario Based Programs
+*(Date: 13-Jan-2025)*
+
+🛒 **SmartCheckout**: Supermarket billing queue system using Queue + HashMap  
+📦 **ParcelTracker**: Delivery chain management using Singly Linked List  
+🧪 **ExamProctor**: Online exam review system using Stack + HashMap + Functions  
+
+✅ Demonstrates practical implementation of core Data Structures:
+- Queue operations for real-time customer handling  
+- HashMap for fast data retrieval (prices, answers)  
+- Singly Linked List for sequential process tracking  
+- Stack-based navigation history management  
+- Function-driven business logic (billing & scoring)  
+- Null handling and edge case management  
+
+🔗 **Code Link:** [Day 8 - Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day3)
 
 ---
