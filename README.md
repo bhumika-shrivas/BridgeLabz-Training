@@ -414,7 +414,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 🟢 Day 22 – Data Structures–based Scenario Problems  
+### 🟢 Day 22 – Data Structures and OOP based Scenario Problems  
 *(Date: 12-Jan-2025)*
 
 📞 **CallCenter**: Customer queue manager using Queue, PriorityQueue, and HashMap  
@@ -448,5 +448,30 @@ E-Wallet System • Smart Home Automation
 
 🔗 **Code Link:** 
 👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day9)
+
+---
+
+### 🟢 Day 25 – Java OOP and DSA Scenario-Based Programs  
+*(13-Jan-2025)*
+
+💳 **PayXpress**: Utility bill payment system with reminders and secure transactions  
+🕊️ **Bird Sanctuary**: Bird management system using inheritance, interfaces, and polymorphism  
+
+✅ Covers core Java OOP concepts:
+- Classes, constructors, interfaces, and access modifiers  
+- Encapsulation, inheritance, abstraction, and polymorphism  
+- Secure data handling and dynamic behavior execution  
+- Menu-driven, real-world problem solving  
+
+🔗 **Code Link:** 
+👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day10)
+
+🛒 **SmartCheckout** – Queue + HashMap  
+📦 **ParcelTracker** – Singly Linked List  
+🧪 **ExamProctor** – Stack + HashMap  
+
+✅ Covers core DSA concepts: Queue, Stack, Linked List, HashMap, functions, and edge-case handling.
+
+🔗 **Code:** [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day3)
 
 ---
