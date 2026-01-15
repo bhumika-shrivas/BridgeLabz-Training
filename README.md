@@ -75,18 +75,18 @@ and safe downcasting in polymorphism
 
 ---
 
-### 📘 Day 4 – Object Oriented Design Principles, Object Modelling & Relations  
+### 📅 Day 4 – Object Oriented Design Principles, Object Modelling & Relations  
 **Date:** 30-Dec-2025
 
 - Studied and practiced **object modelling and relationships**
   
-### 📘 Classes vs Objects in Java
+### 📅 Classes vs Objects in Java
 - A **Class** is a blueprint that defines properties and methods.
 - An **Object** is an instance of a class with actual values.
 - Classes define structure; objects represent real-world entities.
 - Class metadata is stored in the **Method Area**, objects in the **Heap**.
 - One class can create **multiple objects**.
-### 📘 Object Relationships (Java)
+### Object Relationships (Java)
 - Demonstrates **Association** between Course–Teacher and Course–Students  
 - Shows **Aggregation** where School manages multiple Courses  
 - Objects communicate via method calls  
@@ -98,7 +98,7 @@ and safe downcasting in polymorphism
 
 ---
 
-### 📘 Day 5 – Inheritance  
+### 📅 Day 5 – Inheritance  
 **Date:** 31-Dec-2025
 
 - Practiced **Inheritance concepts** using real-world Java examples  
@@ -112,7 +112,7 @@ and safe downcasting in polymorphism
 
 --- 
 
-### 📘 Day 6 - Encapsulation
+### 📅 Day 6 - Encapsulation
 **Date:** 01- Jan-2026
 
 ## 🔑 Concepts Covered
@@ -140,7 +140,7 @@ and safe downcasting in polymorphism
 
 ---
 
-### 📘 Day 7 - OOPS scenario - based programs
+### 📅 Day 7 - OOPS scenario - based programs
 **Date:** 02- Jan-2026
 
 ## Scenario - Based Implementations
@@ -152,7 +152,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 📘 Day 8 - OOPS Scenario-Based Programs
+### 📅 Day 8 - OOPS Scenario-Based Programs
 **Date:** 03-Jan-2026
 
 ## Scenario-Based Implementations
@@ -172,7 +172,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 📘 Day 9 - OOPS Scenario-Based Programs
+### 📅 Day 9 - OOPS Scenario-Based Programs
 **Date:** 05-Jan-2026
 
 - Designed CampusConnect college system using OOP concepts (inheritance, encapsulation, interfaces, polymorphism)
@@ -185,7 +185,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 📘 Day 10 - OOPS Scenario-Based Programs
+### 📅 Day 10 - OOPS Scenario-Based Programs
 **Date:** 06-Jan-2026
 
 - Implemented real-world applications: Event Management, Fitness Tracker, Personalized Learning, and Virtual Pet Care
@@ -198,7 +198,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 📘 Day 11 - OOPS Scenario-Based Programs
+### 📅 Day 11 - OOPS Scenario-Based Programs
 **Date:** 07-Jan-2026
 
 - Built Digital Bookstore System to manage books, users, and purchases using OOP principles
@@ -212,7 +212,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 📘 Day 12 - OOPS Scenario-Based Programs
+### 📅 Day 12 - OOPS Scenario-Based Programs
 **Date:** 08-Jan-2026
 
 ### MediStore – Pharmacy Inventory & Sales System
@@ -232,7 +232,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 📘 Day 13 - OOPS Scenario-Based Programs
+### 📅 Day 13 - OOPS Scenario-Based Programs
 **Date:** 09-Jan-2026
 
 🎨 Artify – Digital Art Marketplace
@@ -260,7 +260,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 📘 Day 14 - Demonstrates advanced Core Java OOP concepts
+### 📅 Day 14 - Demonstrates advanced Core Java OOP concepts
 **Date:** 12-Jan-2026
 
 - Inheritance & hierarchical class design  
@@ -273,5 +273,33 @@ E-Wallet System • Smart Home Automation
 
 🔗 **Code Link:** 
 👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day9)
+
+---
+
+### 📅 Day 15 - Advanced Java OOP Scenario-Based Programs  
+**Date:** 13-Jan-2026
+
+💳 **PayXpress**: Utility bill payment system with tracking, reminders, and secure payment handling  
+🕊️ **Bird Sanctuary**: Wildlife management system using inheritance, interfaces, and polymorphism  
+
+✅ Demonstrates advanced Core Java & OOP concepts:
+- Class design with variables, methods, and constructors  
+- Interfaces for behavior-driven design (IPayable, Flyable, Swimmable)  
+- Encapsulation to protect sensitive and internal data  
+- Inheritance for hierarchical modeling (Bills, Birds)  
+- Polymorphism for dynamic behavior execution  
+- Operator usage for calculations (late fees, reports)  
+- Access modifiers for system-level security  
+
+🔍 **Bird Sanctuary Features:**
+- Add, remove, and search birds by abilities  
+- Polymorphic invocation of fly(), swim(), and eat()  
+- Ability-based classification report (Flyable / Swimmable / Both / Neither)  
+- CLI-driven, menu-based interaction  
+
+🎯 Focus: Real-world, story-driven Java problem solving with clean, modular OOP design.
+
+🔗 **Code Link:** 
+👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day10)
 
 ---
