@@ -1,39 +1,36 @@
-package com.day7;
+package com.day8;
 
 import java.util.Scanner;
 
-/* IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
-Story: At “IceCreamRush,” a small local vendor sells 8 different ice cream flavors. At the end of
-each week, the shopkeeper wants to sort these flavors based on how many times each was
-sold. Since the list is short and he updates it manually, he prefers a simple sorting method —
-Bubble Sort — where he repeatedly compares adjacent sales figures and swaps them if
-Needed.
-
+/*FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+Story: A fitness app tracks steps taken by each user in a small group (less than 20 people). At
+the end of the day, it displays rankings. Since the list is small and frequently shuffled due to
+last-minute step syncing, a simple Bubble Sort runs quickly to generate the leaderboard.
 Concepts Involved:
 ● Bubble Sort
-● Small data size
-● Repeated adjacent comparisons*/
+● Frequent updates
+● Real-time re-sorting*/
 
 public class BubbleSort {
 
     Scanner input = new Scanner(System.in);
-    int count = 0;   // number of flavors entered
+    int count = 0;   // number of users with step data
 
     // Create array
     int[] createArray(int n) {
-        int[] sales = new int[n];
-        return sales;
+        int[] steps = new int[n];
+        return steps;
     }
 
-    // Method to add sales count for flavors
-    void addSales(int m, int n, int[] arr) {
+    // Method to add step counts
+    void addSteps(int m, int n, int[] arr) {
         if (count + m > n) {
-            System.out.println("Maximum flavor limit reached.");
+            System.out.println("User limit reached. Cannot add more data.");
             return;
         }
 
         for (int i = 0; i < m; i++) {
-            System.out.print("Enter sales count for flavor " + (count + 1) + ": ");
+            System.out.print("Enter steps for user " + (count + 1) + ": ");
             arr[count++] = input.nextInt();
         }
     }
@@ -41,7 +38,7 @@ public class BubbleSort {
     // Method to display array (no empty values)
     void display(int[] arr) {
         if (count == 0) {
-            System.out.println("No sales data available.");
+            System.out.println("No step data available.");
             return;
         }
 
@@ -52,11 +49,11 @@ public class BubbleSort {
         System.out.println("]");
     }
 
-    // Bubble Sort method
+    // Bubble Sort method (descending for ranking)
     void bubbleSort(int[] arr) {
         for (int i = 0; i < count - 1; i++) {
             for (int j = 0; j < count - i - 1; j++) {
-                if (arr[j] > arr[j + 1]) {
+                if (arr[j] < arr[j + 1]) {
                     int temp = arr[j];
                     arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
@@ -69,20 +66,20 @@ public class BubbleSort {
 
         BubbleSort ob = new BubbleSort();
 
-        System.out.println("Ice Cream Flavor Popularity Sorting\n");
+        System.out.println("Fitness Tracker – Daily Step Ranking\n");
 
-        System.out.print("Enter maximum number of flavors: ");
+        System.out.print("Enter maximum number of users: ");
         int n = ob.input.nextInt();
 
-        int[] sales = ob.createArray(n);
+        int[] steps = ob.createArray(n);
 
         int choice;
 
         do {
             System.out.println("\nMenu");
-            System.out.println("1. Add flavor sales data");
-            System.out.println("2. Show unsorted sales data");
-            System.out.println("3. Show sorted sales data");
+            System.out.println("1. Add step counts");
+            System.out.println("2. Show unsorted step data");
+            System.out.println("3. Show ranked leaderboard");
             System.out.println("4. Exit");
             System.out.print("Choice: ");
 
@@ -91,24 +88,24 @@ public class BubbleSort {
             switch (choice) {
 
                 case 1:
-                    System.out.print("How many flavors do you want to enter: ");
+                    System.out.print("How many users do you want to add: ");
                     int m = ob.input.nextInt();
-                    ob.addSales(m, n, sales);
+                    ob.addSteps(m, n, steps);
                     break;
 
                 case 2:
-                    System.out.print("Unsorted Sales Data: ");
-                    ob.display(sales);
+                    System.out.print("Unsorted Step Data: ");
+                    ob.display(steps);
                     break;
 
                 case 3:
-                    ob.bubbleSort(sales);
-                    System.out.print("Sorted Sales Data (Popularity Order): ");
-                    ob.display(sales);
+                    ob.bubbleSort(steps);
+                    System.out.print("Leaderboard (Highest Steps First): ");
+                    ob.display(steps);
                     break;
 
                 case 4:
-                    System.out.println("Exited from the program");
+                    System.out.println("Exited from the system");
                     break;
 
                 default:

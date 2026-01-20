@@ -1,44 +1,44 @@
-package com.day5;
+package com.day6;
 
 import java.util.Scanner;
 
-/* EventManager – Ticket Price Optimizer (Quick Sort)
-Story: An event booking portal sorts millions of tickets by price before showing the top 50
-cheapest or most expensive. Since speed is crucial and data is unsorted, Quick Sort is used for
-its average-case performance.
+/*CropMonitor – Sensor Data Ordering (Quick Sort)
+Story: An agri-tech firm uses drone sensors that record soil temperatures at random intervals.
+The large data needs to be sorted quickly by timestamp before visualization. Quick Sort is
+chosen due to its fast average performance.
 Key Concepts:
-● Fast average time
-● Recursive partitioning
-● Ideal for large, random datasets*/
+● Unordered sensor data
+● High-speed sorting
+● Quick partitioning based on timestamps*/
 
 public class QuickSort {
 
     Scanner input = new Scanner(System.in);
-    int count = 0;   // tracks number of valid ticket prices entered
+    int count = 0;   // number of sensor readings entered
 
     // Create array
-    int[] createArray(int n) {
-        int[] prices = new int[n];
-        return prices;
+    long[] createArray(int n) {
+        long[] timestamps = new long[n];
+        return timestamps;
     }
 
-    // Method to add ticket prices
-    void addPrices(int m, int n, int[] arr) {
+    // Method to add sensor timestamps
+    void addTimestamps(int m, int n, long[] arr) {
         if (count + m > n) {
-            System.out.println("Array is full. Cannot add more ticket prices.");
+            System.out.println("Storage full. Cannot add more sensor data.");
             return;
         }
 
         for (int i = 0; i < m; i++) {
-            System.out.print("Enter ticket price " + (count + 1) + ": ");
-            arr[count++] = input.nextInt();
+            System.out.print("Enter timestamp for reading " + (count + 1) + ": ");
+            arr[count++] = input.nextLong();
         }
     }
 
     // Method to display array (no empty values)
-    void display(int[] arr) {
+    void display(long[] arr) {
         if (count == 0) {
-            System.out.println("No ticket prices available.");
+            System.out.println("No sensor data available.");
             return;
         }
 
@@ -50,20 +50,20 @@ public class QuickSort {
     }
 
     // Partition method
-    int partition(int[] arr, int low, int high) {
-        int pivot = arr[high];
+    int partition(long[] arr, int low, int high) {
+        long pivot = arr[high];
         int i = low - 1;
 
         for (int j = low; j < high; j++) {
             if (arr[j] <= pivot) {
                 i++;
-                int temp = arr[i];
+                long temp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = temp;
             }
         }
 
-        int temp = arr[i + 1];
+        long temp = arr[i + 1];
         arr[i + 1] = arr[high];
         arr[high] = temp;
 
@@ -71,7 +71,7 @@ public class QuickSort {
     }
 
     // Quick Sort method
-    void quickSort(int[] arr, int low, int high) {
+    void quickSort(long[] arr, int low, int high) {
         if (low < high) {
             int pi = partition(arr, low, high);
             quickSort(arr, low, pi - 1);
@@ -83,20 +83,20 @@ public class QuickSort {
 
         QuickSort ob = new QuickSort();
 
-        System.out.println("Ticket Price Optimizer using Quick Sort\n");
+        System.out.println("Sensor Data Ordering using Quick Sort\n");
 
-        System.out.print("Enter number of tickets: ");
+        System.out.print("Enter maximum number of sensor readings: ");
         int n = ob.input.nextInt();
 
-        int[] prices = ob.createArray(n);
+        long[] timestamps = ob.createArray(n);
 
         int choice;
 
         do {
             System.out.println("\nMenu");
-            System.out.println("1. Add ticket prices");
-            System.out.println("2. Show unsorted ticket prices");
-            System.out.println("3. Show sorted ticket prices");
+            System.out.println("1. Add sensor timestamps");
+            System.out.println("2. Show unsorted sensor data");
+            System.out.println("3. Show sorted sensor data");
             System.out.println("4. Exit");
             System.out.print("Choice: ");
 
@@ -105,20 +105,20 @@ public class QuickSort {
             switch (choice) {
 
                 case 1:
-                    System.out.print("How many prices do you want to enter: ");
+                    System.out.print("How many readings do you want to add: ");
                     int m = ob.input.nextInt();
-                    ob.addPrices(m, n, prices);
+                    ob.addTimestamps(m, n, timestamps);
                     break;
 
                 case 2:
-                    System.out.print("Unsorted Ticket Prices: ");
-                    ob.display(prices);
+                    System.out.print("Unsorted Sensor Data: ");
+                    ob.display(timestamps);
                     break;
 
                 case 3:
-                    ob.quickSort(prices, 0, ob.count - 1);
-                    System.out.print("Sorted Ticket Prices: ");
-                    ob.display(prices);
+                    ob.quickSort(timestamps, 0, ob.count - 1);
+                    System.out.print("Sorted Sensor Data: ");
+                    ob.display(timestamps);
                     break;
 
                 case 4:

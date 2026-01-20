@@ -1,39 +1,36 @@
-package com.day7;
+package com.day6;
 
 import java.util.Scanner;
 
-/* IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
-Story: At “IceCreamRush,” a small local vendor sells 8 different ice cream flavors. At the end of
-each week, the shopkeeper wants to sort these flavors based on how many times each was
-sold. Since the list is short and he updates it manually, he prefers a simple sorting method —
-Bubble Sort — where he repeatedly compares adjacent sales figures and swaps them if
-Needed.
-
-Concepts Involved:
-● Bubble Sort
-● Small data size
-● Repeated adjacent comparisons*/
+/*CinemaHouse – Movie Time Sorting (Bubble Sort)
+Story: A small local cinema lists daily movie shows. The screen manager updates showtimes
+manually and prefers a simple sorting logic. Since the number of shows is small (~10), Bubble
+Sort is used.
+Key Concepts:
+● Manual data entry, simple logic
+● Small dataset
+● Minimal code complexity*/
 
 public class BubbleSort {
 
     Scanner input = new Scanner(System.in);
-    int count = 0;   // number of flavors entered
+    int count = 0;   // number of valid show times entered
 
     // Create array
     int[] createArray(int n) {
-        int[] sales = new int[n];
-        return sales;
+        int[] showTimes = new int[n];
+        return showTimes;
     }
 
-    // Method to add sales count for flavors
-    void addSales(int m, int n, int[] arr) {
+    // Method to add show times
+    void addShowTimes(int m, int n, int[] arr) {
         if (count + m > n) {
-            System.out.println("Maximum flavor limit reached.");
+            System.out.println("Array is full. Cannot add more show times.");
             return;
         }
 
         for (int i = 0; i < m; i++) {
-            System.out.print("Enter sales count for flavor " + (count + 1) + ": ");
+            System.out.print("Enter show time (in minutes) for show " + (count + 1) + ": ");
             arr[count++] = input.nextInt();
         }
     }
@@ -41,7 +38,7 @@ public class BubbleSort {
     // Method to display array (no empty values)
     void display(int[] arr) {
         if (count == 0) {
-            System.out.println("No sales data available.");
+            System.out.println("No show times available.");
             return;
         }
 
@@ -69,20 +66,20 @@ public class BubbleSort {
 
         BubbleSort ob = new BubbleSort();
 
-        System.out.println("Ice Cream Flavor Popularity Sorting\n");
+        System.out.println("Movie Time Sorting using Bubble Sort\n");
 
-        System.out.print("Enter maximum number of flavors: ");
+        System.out.print("Enter maximum number of shows: ");
         int n = ob.input.nextInt();
 
-        int[] sales = ob.createArray(n);
+        int[] showTimes = ob.createArray(n);
 
         int choice;
 
         do {
             System.out.println("\nMenu");
-            System.out.println("1. Add flavor sales data");
-            System.out.println("2. Show unsorted sales data");
-            System.out.println("3. Show sorted sales data");
+            System.out.println("1. Add movie show times");
+            System.out.println("2. Show unsorted show times");
+            System.out.println("3. Show sorted show times");
             System.out.println("4. Exit");
             System.out.print("Choice: ");
 
@@ -91,20 +88,20 @@ public class BubbleSort {
             switch (choice) {
 
                 case 1:
-                    System.out.print("How many flavors do you want to enter: ");
+                    System.out.print("How many show times do you want to enter: ");
                     int m = ob.input.nextInt();
-                    ob.addSales(m, n, sales);
+                    ob.addShowTimes(m, n, showTimes);
                     break;
 
                 case 2:
-                    System.out.print("Unsorted Sales Data: ");
-                    ob.display(sales);
+                    System.out.print("Unsorted Show Times: ");
+                    ob.display(showTimes);
                     break;
 
                 case 3:
-                    ob.bubbleSort(sales);
-                    System.out.print("Sorted Sales Data (Popularity Order): ");
-                    ob.display(sales);
+                    ob.bubbleSort(showTimes);
+                    System.out.print("Sorted Show Times: ");
+                    ob.display(showTimes);
                     break;
 
                 case 4:

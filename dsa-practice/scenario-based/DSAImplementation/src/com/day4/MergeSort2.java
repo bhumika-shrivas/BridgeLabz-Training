@@ -12,7 +12,7 @@ Key Concepts:
 ● Sorting across centers
 ● High efficiency for big data*/
 
-public class MergeSort {
+public class MergeSort2 {
 
     Scanner input = new Scanner(System.in);
 

@@ -1,37 +1,37 @@
-package com.day6;
+package com.day7;
 
 import java.util.Scanner;
 
-/*RoboWarehouse – Shelf Loading Robot (Insertion Sort)
-Story: A robot loads packages onto shelves based on weight. It adds one package at a time
-and must maintain an ascending order by weight for balance. Insertion Sort helps since new
-items are inserted into the sorted list dynamically.
+/*ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+Story: At an art exhibition, artists register throughout the day. The system continuously adds
+each entry and maintains a sorted list by registration time for booth assignment. Insertion Sort
+fits well due to the incremental nature.
 Key Concepts:
-● Insertion into sorted lists
-● Low memory footprint
-● Ideal for streaming insertions*/
+● Real-time insertion
+● Nearly sorted data
+● Time-based ordering*/
 
 public class InsertionSort {
 
     Scanner input = new Scanner(System.in);
-    int count = 0;   // number of packages currently on shelf
+    int count = 0;   // number of artists registered
 
     // Create array
     int[] createArray(int n) {
-        int[] weights = new int[n];
-        return weights;
+        int[] regTime = new int[n];
+        return regTime;
     }
 
-    // Method to add package weight (dynamic insertion)
-    void addPackage(int weight, int[] arr) {
+    // Method to add registration time (dynamic insertion)
+    void addRegistrationTime(int time, int[] arr) {
         if (count == arr.length) {
-            System.out.println("Shelf is full. Cannot add more packages.");
+            System.out.println("Registration list is full.");
             return;
         }
 
-        arr[count++] = weight;
+        arr[count++] = time;
 
-        // Maintain sorted order using insertion sort logic
+        // Insertion Sort logic to maintain time-based order
         for (int i = count - 1; i > 0; i--) {
             if (arr[i] < arr[i - 1]) {
                 int temp = arr[i];
@@ -42,13 +42,13 @@ public class InsertionSort {
             }
         }
 
-        System.out.println("Package added and shelf reordered.");
+        System.out.println("Artist registered and list updated.");
     }
 
     // Method to display array (no empty values)
     void display(int[] arr) {
         if (count == 0) {
-            System.out.println("Shelf is empty.");
+            System.out.println("No artists registered yet.");
             return;
         }
 
@@ -63,19 +63,19 @@ public class InsertionSort {
 
         InsertionSort ob = new InsertionSort();
 
-        System.out.println("Shelf Loading using Insertion Sort\n");
+        System.out.println("ArtExpo – Artist Registration Sorting\n");
 
-        System.out.print("Enter shelf capacity: ");
+        System.out.print("Enter maximum number of artists: ");
         int n = ob.input.nextInt();
 
-        int[] weights = ob.createArray(n);
+        int[] regTime = ob.createArray(n);
 
         int choice;
 
         do {
             System.out.println("\nMenu");
-            System.out.println("1. Add package weight");
-            System.out.println("2. Show shelf weights");
+            System.out.println("1. Register artist (enter time)");
+            System.out.println("2. Show registration order");
             System.out.println("3. Exit");
             System.out.print("Choice: ");
 
@@ -84,18 +84,18 @@ public class InsertionSort {
             switch (choice) {
 
                 case 1:
-                    System.out.print("Enter package weight: ");
-                    int weight = ob.input.nextInt();
-                    ob.addPackage(weight, weights);
+                    System.out.print("Enter registration time (e.g., minutes since opening): ");
+                    int time = ob.input.nextInt();
+                    ob.addRegistrationTime(time, regTime);
                     break;
 
                 case 2:
-                    System.out.print("Current Shelf Weights: ");
-                    ob.display(weights);
+                    System.out.print("Artists Sorted by Registration Time: ");
+                    ob.display(regTime);
                     break;
 
                 case 3:
-                    System.out.println("Exited from the program");
+                    System.out.println("Exited from the system");
                     break;
 
                 default:
