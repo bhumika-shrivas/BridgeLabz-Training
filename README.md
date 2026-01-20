@@ -150,14 +150,38 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - **HospitalQueue** – Patient sorting by criticality using **Bubble Sort**  
 - **SmartShelf** – Real-time book arrangement using **Insertion Sort**  
 - **ZipZipMart** – Large-scale sales report sorting using **Merge Sort**
+- **EventManager** – Ticket price optimization using **Quick Sort**  
+- **ExamCell** – Student rank generation using **Merge Sort**
 
 ## 🔑 Key Concepts
 - In-place and stable sorting  
 - Online sorting for real-time data  
-- Divide and conquer for large datasets  
+- Divide and conquer for large datasets
+- Fast average-case performance  
+- Recursive partitioning  
+- Efficient merging of large, pre-sorted datasets  
 
 🎯 Designed to strengthen understanding of **sorting logic**, **performance trade-offs**, and **practical use cases**.
 
 🔗 **Code Link:** [Day 9 - Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day4)
+
+---
+
+# 📅 Day 10 –  Sorting Algorithms – Scenario-Based Programs
+*(Date: 16-Jan-2025)*
+
+## 🧩 Implementations
+- **RoboWarehouse** – Shelf load ordering using **Insertion Sort**  
+- **CinemaHouse** – Movie showtime sorting using **Bubble Sort**  
+- **CropMonitor** – Sensor data ordering using **Quick Sort**
+
+## 🔑 Key Concepts
+- Dynamic insertion into sorted data  
+- Simple logic for small datasets  
+- Fast average-case sorting for large, random inputs  
+
+🎯 Emphasizes choosing the **right sorting algorithm** based on **data size and behavior**.
+
+🔗 **Code Link:** [Day 10 - Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day5)
 
 ---
