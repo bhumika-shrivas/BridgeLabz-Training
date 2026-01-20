@@ -142,3 +142,22 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 🔗 **Code Link:** [Day 8 - Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day3)
 
 ---
+
+# 📅 Day 9 –  Sorting Algorithms – Scenario-Based Programs
+*(Date: 15-Jan-2025)*
+
+## 🧩 Implementations
+- **HospitalQueue** – Patient sorting by criticality using **Bubble Sort**  
+- **SmartShelf** – Real-time book arrangement using **Insertion Sort**  
+- **ZipZipMart** – Large-scale sales report sorting using **Merge Sort**
+
+## 🔑 Key Concepts
+- In-place and stable sorting  
+- Online sorting for real-time data  
+- Divide and conquer for large datasets  
+
+🎯 Designed to strengthen understanding of **sorting logic**, **performance trade-offs**, and **practical use cases**.
+
+🔗 **Code Link:** [Day 9 - Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day4)
+
+---
