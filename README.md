@@ -4,7 +4,7 @@ This repository documents my **BridgeLabz Java Training**, organized **day-wise 
 
 ---
 
-## 📅 Week 1 – Core Java Fundamentals
+## 📅 Week 1 –Git, GitHub & Core Java Fundamentals
 
 ### 🟢 Day 1 – Git & GitHub Setup  
 *(16-Dec-2025)*
@@ -75,8 +75,6 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 2 – Core Java Fundamentals and OOPS Concepts
-
 ### 🟢 Day 6 – Methods  
 *(22-Dec-2025)*
 - User-defined methods  
@@ -110,6 +108,8 @@ BridgeLabz-Training/
 👉 [Day 8 – Extras Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
+
+## 📅 Week 2 – Object Oriented Programming
 
 ### 🟢 Day 9 
 *(Date: 26-Dec-2025)*
@@ -150,8 +150,6 @@ BridgeLabz-Training/
 👉 [Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
 
 ---
-
-## 📅 Week 3 – OOPS Concepts and Data Structures
 
 ### 🟢 Day 11 – Scenario-Based Core Java 
 *(29-Dec-2025)*
@@ -258,6 +256,8 @@ Library Management • Food Delivery • Hospital Management • Ride-Hailing
 
 ---
 
+## 📅 Week 3 – Data Structures And Algorithms
+
 ### 🟢 Day 15 – OOPS Scenario - Based Programs
 *(02-Jan-2026)*
 
@@ -362,7 +362,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 🟢 Day 19 – Oops-based Scenario problems
+### 🟢 Day 20 – Oops-based Scenario problems
 *(08-Jan-2026)*
 
 ### MediStore – Pharmacy Inventory & Sales System
@@ -382,7 +382,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 🟢 Day 20 – Oops-based Scenario problems
+### 🟢 Day 21 – Oops-based Scenario problems
 *(09-Jan-2026)*
 
 - 🎨 **Artify:** Digital/print art marketplace with purchase, licensing, and polymorphism  
@@ -396,7 +396,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 🟢 Day 21 – Data Structures–based Scenario Problems  
+### 🟢 Day 22 – Data Structures–based Scenario Problems  
 *(10-Jan-2026)*
 
 📚 **BookShelf**: Library organizer using HashMap + LinkedList for genre-wise book management  
@@ -414,7 +414,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 🟢 Day 22 – Data Structures and OOP based Scenario Problems  
+### 🟢 Day 23 – Data Structures and OOP based Scenario Problems  
 *(Date: 12-Jan-2025)*
 
 📞 **CallCenter**: Customer queue manager using Queue, PriorityQueue, and HashMap  
@@ -451,7 +451,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 🟢 Day 25 – Java OOP and DSA Scenario-Based Programs  
+### 🟢 Day 24 – Java OOP and DSA Scenario-Based Programs  
 *(13-Jan-2025)*
 
 💳 **PayXpress**: Utility bill payment system with reminders and secure transactions  
@@ -473,5 +473,21 @@ E-Wallet System • Smart Home Automation
 ✅ Covers core DSA concepts: Queue, Stack, Linked List, HashMap, functions, and edge-case handling.
 
 🔗 **Code:** [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day3)
+
+---
+
+## 📅 Week 4 – Java Collections
+
+### 🟢 Day 25 – Java Generics & DSA Sorting Scenarios
+*(15-Jan-2025)*
+
+- Covered Java Generics fundamentals: type safety, reusability, bounded types, and wildcards.
+- Implemented real-world generic systems: Smart Warehouse, Online Marketplace, Course Management, Meal Planner, AI Resume Screening.
+- Solved DSA sorting scenarios using Bubble, Insertion, Merge, and Quick Sort for hospital queues, shelves, sales reports, ticket pricing, and exam ranking.
+- Focused on selecting the right abstraction and algorithm based on real-world constraints.
+
+🔗 **Code Link:** [Generic Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+
+🔗 **Code Link:** [DSA Scenario Based Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day4)
 
 ---
