@@ -528,3 +528,19 @@ E-Wallet System • Smart Home Automation
 🔗 **Code Link:** [OOPs Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day11)
 
 ---
+
+### 🟢 Day 28 – DSA Scenarios, I/O Streams & OOPs (Scenario-Based)  
+*(19-Jan-2026)*
+
+- Solved DSA sorting scenarios using Merge Sort, Quick Sort, and Bubble Sort for rank generation, flash-sale product sorting, and fitness leaderboards.
+- Practiced Java I/O Streams for efficient reading and writing of data.
+- Built an **Address Book System** applying OOP concepts: classes, constructors, encapsulation, collections, duplicate validation, search, and alphabetical sorting.
+- Focused on real-world problem solving and efficient data handling.
+
+🔗 **Code Link:** [DSA Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day7)
+
+🔗 **Code Link:** [OOPs Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day12)
+
+🔗 **Code Link:** [Stream Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
+
+---
