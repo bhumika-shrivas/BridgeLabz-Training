@@ -544,3 +544,20 @@ E-Wallet System • Smart Home Automation
 🔗 **Code Link:** [Stream Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
 
 ---
+
+### 🟢 Day 29 – DSA Sorting Scenarios & Exception Handling  
+*(20-Jan-2026)*
+
+- Solved scenario-based DSA sorting problems:
+  - MovieTime using Insertion Sort for real-time showtime insertion
+  - FoodFest using Merge Sort to combine daily footfall logs
+  - GamerZone using Quick Sort for efficient leaderboard ranking
+- Implemented Java Exception Handling with `try-catch`, handling both checked and unchecked exceptions.
+- Ensured safe and error-resilient program execution.
+- Focused on real-time data management, performance-driven sorting, and robust coding practices.
+
+🔗 **Code Link:** [DSA Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day8)
+
+🔗 **Code Link:** [Exception Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)
+
+---
