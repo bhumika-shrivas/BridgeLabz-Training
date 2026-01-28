@@ -325,3 +325,22 @@ E-Wallet System • Smart Home Automation
 
 ---
 
+### 📅 Day 17 – Scenario-Based Problems  
+**Date:** 19-Jan-2026
+
+📇 **Address Book Application**: Built a contact management system to add, edit, delete, search, and display contacts efficiently.  
+
+✅ Demonstrates Core Java & OOP concepts:
+- Class-based design with constructors and access modifiers  
+- Encapsulation for secure and structured data handling  
+- Use of Collections (`ArrayList`) for dynamic contact storage  
+- Duplicate contact validation to maintain data integrity  
+- Location-based search functionality  
+- Alphabetical sorting of contacts for improved usability  
+
+🎯 **Focus:** Applying OOP fundamentals and collections to build a real-world, user-centric Java application.
+
+🔗 **Code Link:** 
+👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day12/addressbooksystem)
+
+---
