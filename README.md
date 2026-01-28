@@ -491,3 +491,40 @@ E-Wallet System • Smart Home Automation
 🔗 **Code Link:** [DSA Scenario Based Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day4)
 
 ---
+
+### 🟢 Day 26 – Java Collections & DSA Sorting Scenarios  
+*(16-Jan-2026)*
+
+- Practiced core Java Collections interfaces: List, Set, Queue, and Map with real-world problems.
+- Implemented list operations, set logic, queue/stack simulations, and map-based analytics.
+- Built systems like Insurance Policy Management and Voting System using HashMap, LinkedHashMap, TreeMap, and Sets.
+- Solved DSA sorting scenarios:
+  - Insertion Sort for RoboWarehouse (streaming package weights)
+  - Bubble Sort for CinemaHouse (small showtime datasets)
+  - Quick Sort for CropMonitor (large sensor data by timestamp)
+- Focused on choosing optimal collections and sorting algorithms based on data size, memory usage, and performance constraints.
+
+🔗 **Code Link:** [Scenario Based Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day5)
+
+🔗 **Code Link:** [Collection Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
+
+---
+
+### 🟢 Day 27 – DSA Sorting Scenarios & OOPs (Scenario-Based)  
+*(17-Jan-2026)*
+
+- Solved OOP-based scenarios using encapsulation, constructors, methods, and composition.
+- Implemented **GeoMeasure Solutions** to compare line segments with proper data encapsulation.
+- Built **Bag-n-Ball Organizer** with capacity checks and composed object relationships.
+- Practiced DSA sorting through real-world cases:
+  - Insertion Sort for ArtExpo (artist registration timing)
+  - Merge Sort for FleetManager (maintenance schedule merging)
+  - Bubble Sort for IceCreamRush (popularity ranking)
+  - Insertion Sort for SmartLibrary (alphabetical book sorting)
+- Emphasized real-world problem solving, efficient data handling, and correct use of OOP and sorting techniques.
+
+🔗 **Code Link:** [DSA Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day6)
+
+🔗 **Code Link:** [OOPs Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day11)
+
+---
