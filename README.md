@@ -507,7 +507,7 @@ E-Wallet System • Smart Home Automation
 🔗 **Code Link:** [Scenario Based Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day5)
 
 🔗 **Code Link:** [Collection Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
-
+  
 ---
 
 ### 🟢 Day 27 – DSA Sorting Scenarios & OOPs (Scenario-Based)  
