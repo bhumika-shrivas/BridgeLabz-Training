@@ -243,3 +243,25 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 🔗 **Code Link:** [Day 12 - Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day8)
 
 ---
+
+# 📅 Day 14 – Sorting & BST – Scenario-Based Problems  
+*(Date: 21-Jan-2026)*
+
+## 🧩 Implementations
+- **TailorShop** – Real-time order sorting by delivery deadlines using **Insertion Sort**  
+- **MedWarehouse** – Branch-wise medicine expiry consolidation using **Merge Sort**  
+- **University Records** – Student roll number management using **Binary Search Tree (BST)**  
+- **E-Commerce Inventory** – SKU-based product management with BST operations  
+- **Music App** – Track organization and search using BST with in-order traversal  
+
+## 🔑 Concepts Covered
+- Incremental sorting for real-time and time-sensitive data  
+- Stable merging of pre-sorted datasets  
+- Efficient searching, insertion, and deletion using BST  
+- In-order traversal for sorted data retrieval  
+
+🎯 Designed to strengthen **efficient searching, sorted data management, and real-world application of DSA concepts**.
+
+🔗 **Code Link:** [Day 12 - Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day9)
+
+---
