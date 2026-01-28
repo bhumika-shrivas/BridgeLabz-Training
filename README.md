@@ -82,7 +82,24 @@
 - Implementing meaningful error handling using custom exceptions  
 - Controlling program flow through exception propagation  
 
-🔗 **Code Link:**[Java Exception Handling Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)
+🔗 **Code Link:** [Java Exception Handling Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)
 
 ---
 
+## 📅 Day 5 – Regular Expressions (Regex) and JUnit  
+*(Date: 21 January 2026)*
+
+### Topics Covered
+- Regex basics: metacharacters, quantifiers, and pattern writing  
+- Input validation using regex (email, password, phone number)  
+- Java Regex API: `Pattern`, `Matcher`, `find()`, `matches()`, `replaceAll()`  
+- Introduction to JUnit for unit testing  
+- Writing test cases using annotations and assertions  
+
+### Practical Applications
+- Validating and processing text data  
+- Writing and verifying unit tests for Java applications  
+
+🔗 **Code Link:** [Regex Practice Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regularexpression)
+
+---
