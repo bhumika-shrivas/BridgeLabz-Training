@@ -561,3 +561,22 @@ E-Wallet System • Smart Home Automation
 🔗 **Code Link:** [Exception Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)
 
 ---
+
+### 🟢 Day 30 – DSA Sorting, BST Scenarios, Regex & JUnit  
+*(21-Jan-2026)*
+
+- Solved DSA sorting scenarios:
+  - TailorShop using Insertion Sort for real-time order deadlines
+  - MedWarehouse using Merge Sort for time-sensitive inventory merging
+- Implemented Binary Search Tree (BST) applications:
+  - University Records for student roll number operations
+  - E-Commerce Inventory using SKU-based BST management
+  - Music App for track organization with in-order traversal
+- Practiced Regex for pattern matching and JUnit for automated unit testing.
+- Focused on efficient data handling, structured storage, real-time sorting, and test-driven development.
+
+🔗 **Code Link:** [DSA Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day9)
+
+🔗 **Code Link:** [Regex Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regularexpression)
+
+---
