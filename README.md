@@ -524,7 +524,7 @@ E-Wallet System • Smart Home Automation
 - Emphasized real-world problem solving, efficient data handling, and correct use of OOP and sorting techniques.
 
 🔗 **Code Link:** [DSA Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day6)
-
+ 
 🔗 **Code Link:** [OOPs Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day11)
 
 ---
