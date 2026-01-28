@@ -62,3 +62,27 @@
 🔗 **Code Link:** [Java Stream Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
 
 ---
+
+## 📅 Day 4 – Java Exception Handling  
+*(Date: 20 January 2026)*
+
+### Topics Covered
+- Overview of **Java Exception Handling** and its importance  
+- Checked vs Unchecked exceptions  
+- Creating and using **custom exceptions**  
+- Exception handling constructs:
+  - `try-catch`  
+  - `try-catch-finally`  
+  - `try-with-resources`  
+- Exception propagation using `throw` and `throws`  
+
+### Practical Applications
+- Handling runtime and compile-time errors safely  
+- Managing resources efficiently with `try-with-resources`  
+- Implementing meaningful error handling using custom exceptions  
+- Controlling program flow through exception propagation  
+
+🔗 **Code Link:**[Java Exception Handling Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)
+
+---
+
