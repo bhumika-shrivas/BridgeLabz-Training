@@ -40,3 +40,25 @@
 
 ---
 
+## 📅 Day 3 – Java Streams  
+*(Date: 19 January 2026)*
+
+### Topics Covered
+- Introduction to **Java I/O Streams** for file-based and in-memory data handling  
+- Byte Streams vs Character Streams: use cases and differences  
+- File handling using `FileInputStream` and `FileOutputStream`  
+- Object Streams for serialization and deserialization  
+- In-memory data handling with `ByteArrayInputStream` and `ByteArrayOutputStream`  
+- Performance optimization using Buffered Streams  
+- Reader and Writer classes for character-based I/O  
+
+### Practical Applications
+- Reading and writing files efficiently  
+- Data serialization for object persistence  
+- Optimizing I/O performance using buffering  
+- Choosing the correct stream type for different data formats  
+- Proper resource management using best practices
+
+🔗 **Code Link:** [Java Stream Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
+
+---
