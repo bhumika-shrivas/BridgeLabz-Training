@@ -303,3 +303,25 @@ E-Wallet System • Smart Home Automation
 👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day10)
 
 ---
+
+### 📅 Day 16 – Scenario-Based Problems  
+**Date:** 17-Jan-2026
+
+📏 **GeoMeasure Solutions**: Compared line segments using encapsulation, constructors, and methods to calculate and evaluate line lengths.  
+
+🎒 **Bag-n-Ball Organizer**: Modeled real-world composition with bags and balls, enforcing capacity constraints and encapsulated data handling.  
+
+✅ Demonstrates Core Java & OOP fundamentals:
+- Class and object creation with proper constructors  
+- Encapsulation to protect internal state and data integrity  
+- Method design for computation and validation logic  
+- Object composition to model real-world relationships  
+- Clear separation of responsibilities between classes  
+
+🎯 **Focus:** Strengthening OOP fundamentals through scenario-based problem solving and clean object-oriented design.
+
+🔗 **Code Link:** 
+👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day11)
+
+---
+
