@@ -1,0 +1,5 @@
+System started successfully
+ERROR: Failed to connect to database
+User logged in
+Warning: Low disk space
+Error: NullPointerException at line 23
