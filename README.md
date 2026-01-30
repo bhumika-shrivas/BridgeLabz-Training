@@ -580,3 +580,19 @@ E-Wallet System • Smart Home Automation
 🔗 **Code Link:** [Regex Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regularexpression)
 
 ---
+### 🟢 Day 31 – DSA Tree Scenarios, Annotations & Reflection  
+*(22-Jan-2026)*
+
+- Implemented AVL Tree–based scenarios for balanced and efficient data handling:
+  - Gaming Leaderboard for real-time player insert/update, ranking, and removals
+  - Online Ticket Booking with event sorting, insertion, deletion, and ordered display
+  - Hospital Queue for patient registration, deletion, and arrival-time ordering
+- Practiced Java Annotations and Reflection for runtime metadata access and class inspection.
+- Used reflection for dynamic method invocation and interaction with annotated elements.
+- Focused on self-balancing trees, fast lookups, and advanced Java features.
+
+🔗 **Code Link:** [DSA SCenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day11/avltree)
+🔗 **Code Link:** [Annotation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)
+🔗 **Code Link:** [Reflection](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)
+
+---
