@@ -575,7 +575,7 @@ E-Wallet System • Smart Home Automation
 - Practiced Regex for pattern matching and JUnit for automated unit testing.
 - Focused on efficient data handling, structured storage, real-time sorting, and test-driven development.
 
-🔗 **Code Link:** [DSA Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day9)
+🔗 **Code Link:** [DSA Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day9) 
 
 🔗 **Code Link:** [Regex Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regularexpression)
 
@@ -591,8 +591,26 @@ E-Wallet System • Smart Home Automation
 - Used reflection for dynamic method invocation and interaction with annotated elements.
 - Focused on self-balancing trees, fast lookups, and advanced Java features.
 
-🔗 **Code Link:** [DSA SCenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day11/avltree)
-🔗 **Code Link:** [Annotation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)
+🔗 **Code Link:** [DSA SCenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day11/avltree) 
+
+🔗 **Code Link:** [Annotation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations) 
+
 🔗 **Code Link:** [Reflection](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)
 
 ---
+
+## 📅 Week 5 – IO Programming
+
+### 🟢 Day 32 – Collections Scenarios & CSV Data Handling  
+*(23-Jan-2026)*
+
+- Worked on real-world scenarios using Java Collections, Generics, I/O Streams, Regex, and CSV files.
+- Processed text and CSV files using Java I/O Streams.
+- Extracted, validated, and cleaned data using Regex patterns.
+- Used `List`, `Set`, `Map`, and `PriorityQueue` for efficient data storage and sorting.
+- Implemented serialization and exception handling for reliable data processing.
+- Built CSV-based result processing and ranking logic.
+- Focused on efficient data handling, validation, and real-world collection usage.
+
+🔗 **Code Link:** [Collection Scenario Based]
+🔗 **Code Link:** [CSV Handling Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/IOStreamPractice/src/com/csvdatahandling)
