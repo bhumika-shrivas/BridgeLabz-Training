@@ -614,3 +614,25 @@ E-Wallet System • Smart Home Automation
 
 🔗 **Code Link:** [Collection Scenario Based]
 🔗 **Code Link:** [CSV Handling Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/IOStreamPractice/src/com/csvdatahandling)
+
+---
+
+### 🟢 Day 33 – JSON Data & Collections (Scenario-Based)  
+*(24-Jan-2026)*
+
+- Learned JSON fundamentals: structure, syntax, data types, objects, arrays, and nesting.
+- Practiced JSON creation, parsing, reading, and writing using **org.json**, **Gson**, and **Jackson**.
+- Implemented POJO-based and dynamic JSON handling approaches.
+- Validated JSON data using **JSON Schema** for structural correctness.
+- Built real-world file-processing scenarios:
+  - MedInventory – Hospital inventory tracking  
+  - ChatLogParser – Message pattern analysis  
+  - SongVault – Music library management  
+  - ExamResultUploader – Bulk result processing  
+  - DealTracker – E-commerce discount validation
+- Used **Regex** and **Java Collections** (`List`, `Set`, `Map`, `PriorityQueue`) for efficient data extraction, organization, sorting, and analysis.
+
+🔗 **Code Link:** [Collection Scenario Based]
+🔗 **Code Link:** [JSON Practice Problems]
+
+---
