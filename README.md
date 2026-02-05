@@ -657,3 +657,18 @@ E-Wallet System • Smart Home Automation
 
 ---
 
+## 📅 Day 35 – Stream API & Collectors  
+*(Date: 28-Jan-2026)*
+
+- Explored Java Stream API for functional and efficient data processing.
+- Used intermediate operations like `filter`, `map`, `flatMap`, and `sorted`.
+- Applied terminal operations such as `forEach`, `collect`, `count`, and `reduce`.
+- Worked with Collectors including `toList`, `toSet`, `toMap`, `groupingBy`, and `partitioningBy`.
+- Solved real-world problems like employee data analysis and student result processing.
+
+🔗 *Code Link:* [Stream API Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/streamsapi)
+
+🔗 *Code Link:* [Collectors practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/collectors)
+
+---
+
