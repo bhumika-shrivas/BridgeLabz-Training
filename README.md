@@ -103,3 +103,24 @@
 🔗 **Code Link:** [Regex Practice Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regularexpression)
 
 ---
+
+## 📅 Day 6 – Annotations and Reflection in Java  
+*(Date: 22 January 2026)*
+
+### Topics Covered
+- Basics of Java annotations and their role as code metadata  
+- Common built-in annotations and creation of custom annotations  
+- Advanced annotation usage for real-world scenarios  
+- Introduction to Java Reflection  
+- Accessing classes, methods, and fields at runtime  
+- Using reflection in combination with annotations  
+
+### Practical Applications
+- Adding metadata to code for configuration and validation  
+- Building flexible and extensible systems using custom annotations  
+- Runtime inspection and dynamic behavior using reflection  
+
+🔗 **Code Link:** [Annotation Practice Problem](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)
+🔗 **Code Link:** [Reflection Practice Problem](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)
+
+---
