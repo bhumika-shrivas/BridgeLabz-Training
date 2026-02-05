@@ -633,7 +633,7 @@ E-Wallet System • Smart Home Automation
 - Used **Regex** and **Java Collections** (`List`, `Set`, `Map`, `PriorityQueue`) for efficient data extraction, organization, sorting, and analysis.
 
 🔗 **Code Link:** [Collection Scenario Based]
-🔗 **Code Link:** [JSON Practice Problems]
+🔗 **Code Link:** [JSON Practice Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/IOStreamPractice/src/com/jsondatahandling)
 
 ---
 
