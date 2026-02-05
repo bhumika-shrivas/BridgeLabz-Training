@@ -1,0 +1,48 @@
+package com.csvdatahandling.readcsvfileandprintdata;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+
+public class ReadStudentCSV {
+
+    public static void main(String[] args) {
+
+    	String filePath = "O:\\Java Programming Workspace\\java-io-streams-practice\\gcr-codebase\\IOStreamsPractice\\src\\com\\csvdatahandling\\readcsvfileandprintdata\\students.csv";
+
+        try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
+
+            String line;
+            boolean isHeader = true;
+
+            while ((line = br.readLine()) != null) {
+
+                // Skip header row
+                if (isHeader) {
+                    isHeader = false;
+                    continue;
+                }
+
+                // Split by comma
+                String[] data = line.split(",");
+
+                String id = data[0];
+                String name = data[1];
+                String age = data[2];
+                String marks = data[3];
+
+                System.out.println("ID: " + id);
+                System.out.println("Name: " + name);
+                System.out.println("Age: " + age);
+                System.out.println("Marks: " + marks);
+                System.out.println("---------------------");
+            }
+
+        } catch (IOException e) {
+            System.out.println("Error reading file: " + e.getMessage());
+        }
+    }
+}
+
+
+
