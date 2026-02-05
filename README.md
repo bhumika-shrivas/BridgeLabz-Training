@@ -612,7 +612,8 @@ E-Wallet System • Smart Home Automation
 - Built CSV-based result processing and ranking logic.
 - Focused on efficient data handling, validation, and real-world collection usage.
 
-🔗 **Code Link:** [Collection Scenario Based]
+🔗 **Code Link:** [Collection Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarioBased/src/com/day2)
+
 🔗 **Code Link:** [CSV Handling Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/IOStreamPractice/src/com/csvdatahandling)
 
 ---
@@ -632,7 +633,8 @@ E-Wallet System • Smart Home Automation
   - DealTracker – E-commerce discount validation
 - Used **Regex** and **Java Collections** (`List`, `Set`, `Map`, `PriorityQueue`) for efficient data extraction, organization, sorting, and analysis.
 
-🔗 **Code Link:** [Collection Scenario Based]
+🔗 **Code Link:** [Collection Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based/CollectionScenarioBased/src/com/day1)
+
 🔗 **Code Link:** [JSON Practice Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/IOStreamPractice/src/com/jsondatahandling)
 
 ---
