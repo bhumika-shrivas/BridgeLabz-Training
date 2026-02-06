@@ -42,3 +42,18 @@
 🔗 *Code Link:* [Marker Interface](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/functionalinterface/markerinterface)
 
 ---
+
+## 📅 Day 2 – Stream API & Collectors  
+*(Date: 28-Jan-2026)*
+
+- Worked with Java Stream API for functional-style data processing.
+- Used operations like `filter`, `map`, `sorted`, `forEach`, `collect`, and `reduce`.
+- Applied Collectors: `toList`, `toSet`, `toMap`, `groupingBy`, and `partitioningBy`.
+- Solved real-world scenarios like employee analysis and student result processing.
+
+🔗 *Code Link:* [Stream API Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/streamsapi)
+
+🔗 *Code Link:* [Collectors Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/collectors)
+
+---
+
