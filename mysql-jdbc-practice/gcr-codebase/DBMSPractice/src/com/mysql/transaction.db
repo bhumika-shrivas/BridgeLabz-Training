@@ -1,0 +1,85 @@
+
+Exercise 2: Transaction Management
+Implement a banking system with:
+• Transfer money between accounts (use transactions)
+• Check balance
+• Transaction history
+
+mysql> create database transaction_management;
+Query OK, 1 row affected (0.48 sec)
+
+mysql> use transaction_management;
+Database changed
+mysql> create table accounts(
+    -> account_id int primary key,
+    -> account_holder varchar(30),
+    -> balance decimal(10,2));
+Query OK, 0 rows affected (0.08 sec)
+
+mysql> CREATE TABLE transactions (
+    ->     txn_id INT AUTO_INCREMENT PRIMARY KEY,
+    ->     from_account INT,
+    ->     to_account INT,
+    ->     amount DECIMAL(10,2),
+    ->     txn_type VARCHAR(20),
+    ->     txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    -> );
+Query OK, 0 rows affected (0.07 sec)
+
+mysql> insert into accounts values
+    -> (101, 'Bhumika', 90000),
+    -> (102, 'Arya', 85000);
+Query OK, 2 rows affected (0.03 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> select account_id, account_holder, balance
+    -> from accounts
+    -> where account_id = 101;
++------------+----------------+----------+
+| account_id | account_holder | balance  |
++------------+----------------+----------+
+|        101 | Bhumika        | 90000.00 |
++------------+----------------+----------+
+1 row in set (0.00 sec)
+
+mysql> start transaction;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> -- Deduct from sender
+mysql> update accounts
+    -> set balance = balance - 5000
+    -> where account_id = 101;
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> -- Add to receiver
+mysql> update accounts
+    -> set balance = balance + 5000
+    -> where account_id = 102;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> -- Save transaction record
+mysql> insert into transactions (from_account, to_account, amount, txn_type)values (101, 102, 5000, 'TRANSFER');
+Query OK, 1 row affected (0.12 sec)
+
+mysql> commit;
+Query OK, 0 rows affected (1.14 sec)
+
+mysql> select * from transactions
+    -> where from_account = 101 or to_account = 101
+    -> order by txn_date desc;
++--------+--------------+------------+---------+----------+---------------------+
+| txn_id | from_account | to_account | amount  | txn_type | txn_date            |
++--------+--------------+------------+---------+----------+---------------------+
+|      1 |          101 |        102 | 5000.00 | TRANSFER | 2026-02-06 16:38:24 |
++--------+--------------+------------+---------+----------+---------------------+
+1 row in set (0.00 sec)
+
+mysql> select balance from accounts where account_id = 101 and balance >= 5000;
++----------+
+| balance  |
++----------+
+| 85000.00 |
++----------+
+1 row in set (0.02 sec)
