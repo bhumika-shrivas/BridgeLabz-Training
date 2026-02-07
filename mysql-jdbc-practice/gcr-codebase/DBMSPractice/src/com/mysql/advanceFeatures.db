@@ -1,0 +1,127 @@
+
+Exercise 3: Advanced Features
+Build a library management system with:
+• Book inventory
+• Student borrowing records
+• Fine calculation
+• Search functionality with multiple filters
+
+mysql> create database advance_features;
+Query OK, 1 row affected (0.21 sec)
+
+mysql> use advance_features;
+Database changed
+
+mysql> create table books(
+    -> book_id int primary key,
+    -> title varchar(200),
+    -> author varchar(100),
+    -> category varchar(50),
+    -> total_copies int,
+    -> available_copies int);
+Query OK, 0 rows affected (0.08 sec)
+
+mysql> create table students(
+    -> student_id int primary key,
+    -> student_name varchar(100));
+Query OK, 0 rows affected (0.06 sec)
+
+mysql> create table borrow_records(
+    -> borrow_id int auto_increment primary key,
+    -> student_id int,
+    -> book_id int,
+    -> issue_date date,
+    -> due_date date,
+    -> return_date date);
+Query OK, 0 rows affected (0.12 sec)
+
+mysql> insert into books values
+    -> (1, 'Java Programming', 'James Gosling', 'Programming', 5, 3),
+    -> (2, 'DBMS Concepts', 'Korth', 'Database', 4, 2),
+    -> (3, 'Clean Code', 'Robert Martin', 'Software', 6,6);
+Query OK, 3 rows affected (0.02 sec)
+Records: 3  Duplicates: 0  Warnings: 0
+
+mysql> insert into students values
+    -> (101, 'Bhumika'),
+    -> (102, 'Arya');
+Query OK, 2 rows affected (0.01 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql> start transaction;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> insert into borrow_records(student_id, book_id, issue_date, due_date)values(101, 1, curdate(), date_add(curdate(), interval 14 day));
+Query OK, 1 row affected (0.04 sec)
+
+mysql> update books
+    -> set available_copies = available_copies - 1
+    -> where book_id = 1 and available_copies > 0;
+Query OK, 1 row affected (0.00 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> commit;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> update borrow_records set return_date = curdate() where borrow_id = 1;
+Query OK, 1 row affected (0.01 sec)
+Rows matched: 1  Changed: 1  Warnings: 0
+
+mysql> select borrow_id, student_id, book_id, greatest(datediff(curdate(), due_date), 0)*5 as fine_amount
+    -> from borrow_records
+    -> where return_date is null;
+Empty set (0.01 sec)
+
+mysql> SELECT s.student_name, b.title, br.issue_date, br.due_date, br.return_date
+    -> FROM borrow_records br
+    -> JOIN students s ON br.student_id = s.student_id
+    -> JOIN books b ON br.book_id = b.book_id
+    -> WHERE s.student_id = 101;
++--------------+------------------+------------+------------+-------------+
+| student_name | title            | issue_date | due_date   | return_date |
++--------------+------------------+------------+------------+-------------+
+| Bhumika      | Java Programming | 2026-02-06 | 2026-02-20 | 2026-02-06  |
++--------------+------------------+------------+------------+-------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT *
+    -> FROM books
+    -> WHERE title LIKE '%Java%'
+    -> AND author LIKE '%Gosling%';
++---------+------------------+---------------+-------------+--------------+------------------+
+| book_id | title            | author        | category    | total_copies | available_copies |
++---------+------------------+---------------+-------------+--------------+------------------+
+|       1 | Java Programming | James Gosling | Programming |            5 |                2 |
++---------+------------------+---------------+-------------+--------------+------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT *
+    -> FROM books
+    -> WHERE category = 'Programming'
+    -> AND available_copies > 0;
++---------+------------------+---------------+-------------+--------------+------------------+
+| book_id | title            | author        | category    | total_copies | available_copies |
++---------+------------------+---------------+-------------+--------------+------------------+
+|       1 | Java Programming | James Gosling | Programming |            5 |                2 |
++---------+------------------+---------------+-------------+--------------+------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT *
+    -> FROM books
+    -> WHERE title LIKE '%Code%'
+    ->    OR author LIKE '%Martin%'
+    ->    OR category LIKE '%Software%';
++---------+------------+---------------+----------+--------------+------------------+
+| book_id | title      | author        | category | total_copies | available_copies |
++---------+------------+---------------+----------+--------------+------------------+
+|       3 | Clean Code | Robert Martin | Software |            6 |                6 |
++---------+------------+---------------+----------+--------------+------------------+
+1 row in set (0.00 sec)
+
+mysql> SELECT s.student_name, b.title, br.due_date
+    -> FROM borrow_records br
+    -> JOIN students s ON br.student_id = s.student_id
+    -> JOIN books b ON br.book_id = b.book_id
+    -> WHERE br.return_date IS NULL
+    -> AND br.due_date < CURDATE();
+Empty set (0.00 sec)
