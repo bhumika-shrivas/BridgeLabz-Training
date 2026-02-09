@@ -1,4 +1,6 @@
-## 📅 Day 1 – Java Generics  
+## Week 04 - Java Collections, Streams
+
+### 📅 Day 1 – Java Generics  
 *(Date: 15 January 2026)*
 
 ### Topics Covered
@@ -18,7 +20,7 @@
 
 ---
 
-## 📅 Day 2 – Java Collections  
+### 📅 Day 2 – Java Collections  
 *(Date: 16 January 2026)*
 
 ### Topics Covered
@@ -40,7 +42,7 @@
 
 ---
 
-## 📅 Day 3 – Java Streams  
+### 📅 Day 3 – Java Streams  
 *(Date: 19 January 2026)*
 
 ### Topics Covered
@@ -63,7 +65,7 @@
 
 ---
 
-## 📅 Day 4 – Java Exception Handling  
+### 📅 Day 4 – Java Exception Handling  
 *(Date: 20 January 2026)*
 
 ### Topics Covered
@@ -86,7 +88,7 @@
 
 ---
 
-## 📅 Day 5 – Regular Expressions (Regex) and JUnit  
+### 📅 Day 5 – Regular Expressions (Regex) and JUnit  
 *(Date: 21 January 2026)*
 
 ### Topics Covered
@@ -104,7 +106,7 @@
 
 ---
 
-## 📅 Day 6 – Annotations and Reflection in Java  
+### 📅 Day 6 – Annotations and Reflection in Java  
 *(Date: 22 January 2026)*
 
 ### Topics Covered
