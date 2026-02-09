@@ -4,7 +4,7 @@ This repository documents my **BridgeLabz Java Training**, organized **day-wise 
 
 ---
 
-## 📅 Week 1 –Git, GitHub & Core Java Fundamentals
+## 📅 Week 01 – Git, GitHub & Core Java Fundamentals
 
 ### 🟢 Day 1 – Git & GitHub Setup  
 *(16-Dec-2025)*
@@ -109,7 +109,7 @@ BridgeLabz-Training/
 
 ---
 
-## 📅 Week 2 – Object Oriented Programming
+## 📅 Week 02 – Object Oriented Programming
 
 ### 🟢 Day 9 
 *(Date: 26-Dec-2025)*
@@ -256,7 +256,7 @@ Library Management • Food Delivery • Hospital Management • Ride-Hailing
 
 ---
 
-## 📅 Week 3 – Data Structures And Algorithms
+## 📅 Week 03 – Data Structures And Algorithms
 
 ### 🟢 Day 15 – OOPS Scenario - Based Programs
 *(02-Jan-2026)*
@@ -476,7 +476,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-## 📅 Week 4 – Java Collections
+## 📅 Week 04 – Java Collections
 
 ### 🟢 Day 25 – Java Generics & DSA Sorting Scenarios
 *(15-Jan-2025)*
@@ -599,7 +599,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-## 📅 Week 5 – IO Programming
+## 📅 Week 05 – IO Programming
 
 ### 🟢 Day 32 – Collections Scenarios & CSV Data Handling  
 *(23-Jan-2026)*
@@ -639,7 +639,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-## 📅 Week 6 – Java 8 & its Features
+## 📅 Week 06 – Java 8 & its Features
 
 ### 🟢 Day 34 – Java Lambdas & Method References & Functional Interface
 *(Date: 27-01-2026)*
@@ -657,7 +657,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-## 📅 Day 35 – Stream API & Collectors  
+## 🟢 Day 35 – Stream API & Collectors  
 *(Date: 28-Jan-2026)*
 
 - Explored Java Stream API for functional and efficient data processing.
@@ -685,8 +685,10 @@ E-Wallet System • Smart Home Automation
 
 ---
 
+## 📅 Week 07 - Solution Designing
+
 ### 🟢 Day 37 - Java 8 Logical Questions and Design Principles & GoF Design Patterns
-*(Date: 30–Jan-2026)*
+*(Date: 31–Jan-2026)*
 
 - Practiced **Java 8 collection conversions** using Streams:
   - List ↔ Map, List ↔ Set, Array ↔ Collection
@@ -728,5 +730,19 @@ E-Wallet System • Smart Home Automation
 - Strengthened understanding of thread creation, synchronization, and real-world concurrency handling.
 
 🔗 *Code Link:* [Scenario Based Problem](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based/ScenarioProblems/src/com/banktransactionmulithreading)
+
+---
+
+## 📅 Week 08 - MySQL & JDBC
+
+### 🟢 Day 40 – MySQL Problems  
+*(Date: 06-Feb-2026)*
+
+- Practiced **CRUD operations** by building a console-based Employee Management System.
+- Implemented **transaction management** through a Banking System with money transfers, balance checks, and transaction history.
+- Developed a **Library Management System** with book inventory, student borrowing records, fine calculation, and multi-filter search.
+- Enhanced database and data-handling skills through hands-on, real-world application scenarios.
+
+🔗 *Code Link:* [MySql Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSPractice/src/com/mysql)
 
 ---
