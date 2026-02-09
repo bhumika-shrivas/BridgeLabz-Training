@@ -718,3 +718,15 @@ E-Wallet System • Smart Home Automation
 
 ---
 
+### 🟢 Day 39 – Bank Transactions Using Multithreading  
+*(Date: 03-Feb-2026)*
+
+- Solved a multithreading scenario simulating **concurrent bank transactions**.
+- Implemented a **thread-safe Bank class** with synchronized deposit, withdrawal, and balance operations.
+- Created multiple **Customer threads** to perform transactions concurrently.
+- Verified correctness by checking final account balances.
+- Strengthened understanding of thread creation, synchronization, and real-world concurrency handling.
+
+🔗 *Code Link:* [Scenario Based Problem](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based/ScenarioProblems/src/com/banktransactionmulithreading)
+
+---
