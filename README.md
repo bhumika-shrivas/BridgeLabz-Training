@@ -1,4 +1,4 @@
-# Java Functional Programming
+## Week 06 - Java Functional Programming
 
 ### 📅 Day 1 – Java Lambdas & Method References
 *(Date: 27-01-2026)*
