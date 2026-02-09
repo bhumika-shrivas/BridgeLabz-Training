@@ -672,7 +672,7 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-## 📅 Day 36 – Java 8 Scenario-Based Questions  
+### 🟢 Day 36 – Java 8 Scenario-Based Questions  
 *(Date: 29–Jan-2026)*
 
 - Practised scenario-based problems using Java 8 functional programming concepts.
@@ -685,3 +685,22 @@ E-Wallet System • Smart Home Automation
 
 ---
 
+### 🟢 Day 37 - Java 8 Logical Questions and Design Principles & GoF Design Patterns
+*(Date: 30–Jan-2026)*
+
+- Practiced **Java 8 collection conversions** using Streams:
+  - List ↔ Map, List ↔ Set, Array ↔ Collection
+- Solved **object transformation and grouping** scenarios with Streams.
+- Worked on **string-based logical problems** like frequency count, filtering, and character processing.
+- Implemented stream-based logic involving `filter`, `map`, `sorted`, `grouping`, `partitioning`, and `reduce`.
+- Applied **Lambda Expressions**, **Functional Interfaces**, **Optional**, and **Streams API** in interview-oriented scenarios.
+- Strengthened understanding of **SOLID principles** (SRP, OCP, LSP, ISP, DIP) and design guidelines (DRY, KISS, YAGNI).
+- Studied and applied **GoF Design Patterns**:
+  - Categories: Creational, Structural, Behavioural  
+  - Common patterns: Singleton, Factory, Observer, Builder
+
+ 🔗 *Code Link:* [Logical Question Practice]
+ 🔗 *Code Link:* [Design Pattern Practice]
+
+ ---
+ 
