@@ -129,6 +129,7 @@ and safe downcasting in polymorphism
 8. **Ride-Hailing Application** – Fare calculation based on vehicle type  
 
 🔗 *Code Link:* 
+
 [Encapsulation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
 
 [Scenario Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day1)
