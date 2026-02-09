@@ -9,8 +9,7 @@
 - Compared Procedural Programming vs OOP in terms of scalability, reusability, and data security
 - Followed best practices for naming conventions and modular program structure
 
-🔗 *Code Link:*  
-👉 [Day 1 – Class and Object Basic Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+🔗 *Code Link:* [Class and Object Basic Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
 
@@ -31,8 +30,7 @@
   - Employee Records  
   - Book Library System
 
-🔗 *Code Link:*  
-👉 [Day 2 – Constructors, Static Members & Access Modifiers](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
+🔗 *Code Link:* [Constructors, Static Members & Access Modifiers](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
 
 ---
 
@@ -70,8 +68,7 @@ and safe downcasting in polymorphism
 - Utility Classes using static methods  
 - Type Checking using `instanceof`
 
-🔗 *Code Link:*  
-👉 [Day 3 – Java Keywords Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords)
+🔗 *Code Link:* [Java Keywords Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/keywords)
 
 ---
 
@@ -93,8 +90,7 @@ and safe downcasting in polymorphism
 - Models real-world school relationships using Core Java
 
 
-🔗 *Code Link:*  
-👉 [Day 4 – Object Oriented Designing, Modelling & Relations](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+🔗 *Code Link:* [Object Oriented Designing, Modelling & Relations](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
 
 ---
 
@@ -107,8 +103,7 @@ and safe downcasting in polymorphism
 - Solved scenarios like **Animal Hierarchy, Employee System, Vehicles, Banking, School Roles**
 - Learned **best practices**: is-a relationship, LSP, avoiding deep hierarchies
 
-🔗 *Code Link:*  
-👉 [Day 5 – Inheritance](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+🔗 *Code Link:* [Inheritance](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 --- 
 
@@ -133,10 +128,10 @@ and safe downcasting in polymorphism
 7. **Hospital Patient Management System** – Billing & medical records  
 8. **Ride-Hailing Application** – Fare calculation based on vehicle type  
 
-🔗 *Code Link:*  
-👉 [Day 6 - Encapsulation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
-🔗 *Code Link:*  
-👉 [Scenario - Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day1)
+🔗 *Code Link:* 
+[Encapsulation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+[Scenario Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day1)
 
 ---
 
@@ -147,8 +142,7 @@ and safe downcasting in polymorphism
 Hospital Management • Vehicle Rental • University Enrollment •  
 E-Wallet System • Smart Home Automation
 
-🔗 *Code Link:*  
-👉 [Scenario - Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day2)
+🔗 *Code Link:* [Scenario Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day2)
 
 ---
 
@@ -167,8 +161,7 @@ E-Wallet System • Smart Home Automation
 - Constructors  
 - Operators & Access Modifiers  
 
-🔗 *Code Link:*  
-👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day3)
+🔗 *Code Link:* [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day3)
 
 ---
 
@@ -180,8 +173,7 @@ E-Wallet System • Smart Home Automation
 - Designed SwiftCart grocery shopping app backend for cart and billing
 - Applied secure price handling, polymorphic discounts, and item-wise bill generation
 
-🔗 *Code Link:*  
-👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day4)
+🔗 *Code Link:* [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day4)
 
 ---
 
@@ -193,8 +185,7 @@ E-Wallet System • Smart Home Automation
 - Focused on clean class design, constructors, and access control
 - Practiced business-logic driven, modular Java programming
 
-🔗 *Code Link:*  
-👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day5)
+🔗 *Code Link:* [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day5)
 
 ---
 
@@ -207,8 +198,7 @@ E-Wallet System • Smart Home Automation
 - Applied classes, constructors, interfaces, access modifiers, and polymorphism
 - Focused on real-world problem modeling and clean, modular Java code
 
-🔗 *Code Link:*  
-👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day6)
+🔗 *Code Link:* [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day6)
 
 ---
 
@@ -227,8 +217,7 @@ E-Wallet System • Smart Home Automation
 - Encapsulates service costs and calculates total budget
 - Supports different booking logic for trip types
 
-🔗 *Code Link:*  
-👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day7)
+🔗 *Code Link:* [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day7)
 
 ---
 
@@ -255,8 +244,7 @@ E-Wallet System • Smart Home Automation
 
 ✅ Demonstrates core Java OOP concepts with real-world use cases
 
-🔗 *Code Link:*  
-👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day8)
+🔗 *Code Link:* [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day8)
 
 ---
 
@@ -271,8 +259,7 @@ E-Wallet System • Smart Home Automation
 - Runtime polymorphism with device-, budget-, and genre-specific behavior  
 - Access modifiers for system and security controls  
 
-🔗 **Code Link:** 
-👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day9)
+🔗 *Code Link:* [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day9)
 
 ---
 
@@ -299,8 +286,7 @@ E-Wallet System • Smart Home Automation
 
 🎯 Focus: Real-world, story-driven Java problem solving with clean, modular OOP design.
 
-🔗 **Code Link:** 
-👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day10)
+🔗 *Code Link:* [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day10)
 
 ---
 
@@ -320,8 +306,7 @@ E-Wallet System • Smart Home Automation
 
 🎯 **Focus:** Strengthening OOP fundamentals through scenario-based problem solving and clean object-oriented design.
 
-🔗 **Code Link:** 
-👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day11)
+🔗 *Code Link:* [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day11)
 
 ---
 
@@ -340,7 +325,6 @@ E-Wallet System • Smart Home Automation
 
 🎯 **Focus:** Applying OOP fundamentals and collections to build a real-world, user-centric Java application.
 
-🔗 **Code Link:** 
-👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day12/addressbooksystem)
+🔗 *Code Link:* [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day12/addressbooksystem)
 
 ---
