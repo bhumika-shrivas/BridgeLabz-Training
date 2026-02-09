@@ -36,8 +36,7 @@ BridgeLabz-Training/
 - Basic input/output  
 - Practiced Git workflow with Java programs  
 
-🔗 *Code Link:*  
-👉 [Day 2 – Basic Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisite)
+🔗 *Code Link:* [Basic Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisite)
 
 ---
 
@@ -47,8 +46,7 @@ BridgeLabz-Training/
 - Operators  
 - User input using Scanner
 
-  🔗 *Code Link:*  
-👉 [Day 3 – Programming Elements](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+  🔗 *Code Link:* [Programming Elements](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
 
@@ -59,8 +57,7 @@ BridgeLabz-Training/
 - break & continue  
 - Boolean logic and clean coding practices
 
-🔗 *Code Link:*  
-👉 [Day 4 – Java Control Flows Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+🔗 *Code Link:* [Java Control Flows Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 ---
 
@@ -70,8 +67,7 @@ BridgeLabz-Training/
 - Array operations  
 - Input validation and error handling
 
-🔗 *Code Link:*  
-👉 [Day 5 – Java Arrays Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+🔗 *Code Link:* [Java Arrays Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ---
 
@@ -82,8 +78,7 @@ BridgeLabz-Training/
 - Math library usage  
 - Modular programming
 
-🔗 *Code Link:*  
-👉 [Day 6 – Java Methods Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+🔗 *Code Link:* [Java Methods Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
 
@@ -93,8 +88,7 @@ BridgeLabz-Training/
 - String methods and ASCII concepts  
 - Checked and unchecked exceptions  
 
-🔗 *Code Link:*  
-👉 [Day 7 – Java Strings Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+🔗 *Code Link:* [Java Strings Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 ---
 
@@ -104,8 +98,7 @@ BridgeLabz-Training/
 - Built-in functions (Math, Random)  
 - Date & Time API (`java.time`)  
 
-🔗 *Code Link:*  
-👉 [Day 8 – Extras Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
+🔗 *Code Link:* [Extras Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
 
 ---
 
@@ -129,9 +122,11 @@ BridgeLabz-Training/
 - Compared Procedural Programming vs OOP in terms of scalability, reusability, and data security
 - Followed best practices for naming conventions and modular program structure
 
-  🔗 **Code Link:**  
-👉 [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based)
-👉 [Class and Object Basic Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+  🔗 *Code Links:*
+  
+  [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based)
+  
+  [Class and Object Basic Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
 
@@ -146,8 +141,7 @@ BridgeLabz-Training/
 - Implemented *encapsulation* using getters and setters  
 - Practiced *inheritance* to demonstrate access control
 
-🔗 **Code Link:**  
-👉 [Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
+🔗 *Code Link:* [Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
 
 ---
 
@@ -157,8 +151,7 @@ BridgeLabz-Training/
 - Bus Attendance System  
 - Mobile Recharge System  
 
-🔗 **Code Link:**  
-👉 [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-3)
+🔗 *Code Link:* [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-3)
 
 - Learned core Java keywords: `this`, `static`, `final`, `instanceof`
 - Used `this` to refer to the current object and resolve variable ambiguity
@@ -179,8 +172,7 @@ BridgeLabz-Training/
 - Movie Ticket Booking  
 - Library Fine Calculator
 
-🔗 **Code Link:**  
-👉 [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-4)
+🔗 *Code Link:* [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-4)
 
 - Studied and practiced **object modelling and relationships**
   
@@ -197,8 +189,7 @@ BridgeLabz-Training/
 - Models real-world school relationships using Core Java
 
 
-🔗 *Code Link:*  
-👉 [Object Oriented Designing, Modelling & Relations](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
+🔗 *Code Link:* [Object Oriented Designing, Modelling & Relations](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
 
 ---
 
@@ -225,8 +216,7 @@ BridgeLabz-Training/
 - Checks divisibility by 3 & 5
 - Uses if conditions and loops
 
-🔗 **Code Link:**  
-👉 [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-5)
+🔗 *Code Link:* [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-5)
 
 - Practiced **Inheritance concepts** using real-world Java examples  
 - Implemented **Single, Multilevel, Hierarchical, and Hybrid inheritance**
@@ -234,8 +224,7 @@ BridgeLabz-Training/
 - Solved scenarios like **Animal Hierarchy, Employee System, Vehicles, Banking, School Roles**
 - Learned **best practices**: is-a relationship, LSP, avoiding deep hierarchies
 
-🔗 *Code Link:*  
-👉 [Inheritance](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+🔗 *Code Link:* [Inheritance](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
 
 ---
 
@@ -250,9 +239,11 @@ Polymorphism • Interfaces • Clean Code Practices
 Employee Management • E-Commerce • Vehicle Rental • Banking •  
 Library Management • Food Delivery • Hospital Management • Ride-Hailing
 
-🔗 **Code:** [Encapsulation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+🔗 *Code Links:* 
 
-🔗 **Code:** [Scenario - based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day1)
+[Encapsulation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
+
+[Scenario - based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day1)
 
 ---
 
@@ -265,7 +256,7 @@ Library Management • Food Delivery • Hospital Management • Ride-Hailing
 Hospital Management • Vehicle Rental • University Enrollment •  
 E-Wallet System • Smart Home Automation
 
-🔗 **Code:** [Scenario-Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day2)
+🔗 *Code Link:* [Scenario-Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day2)
 
 ### 🔹 Linked List Based Systems
 - Student Record Management (Singly Linked List)  
@@ -278,7 +269,7 @@ E-Wallet System • Smart Home Automation
 - Online Ticket Reservation System (Circular Linked List)  
 - Social Media Friend Connections (Singly Linked List)
 
-🔗 **Code:** [Scenario-Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linkedlist)
+🔗 *Code Link:* [Scenario-Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linkedlist)
 
 ---
 
@@ -296,10 +287,11 @@ E-Wallet System • Smart Home Automation
 
 🎯 Focused on **real-world problem modeling**, **clean coding**, and **Core Java fundamentals**.
 
-🔗 *Code Link:*  
-👉 [Stacks, Queues, and Hashmaps](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com)
-🔗 *Code Link:*  
-👉 [Java Scenario-Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day3)
+🔗 *Code Links:* 
+
+[Stacks, Queues, and Hashmaps](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com)
+
+[Java Scenario-Based Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day3)
 
 ---
 
@@ -315,9 +307,10 @@ E-Wallet System • Smart Home Automation
 - Implemented Counting Sort to sort student ages efficiently using frequency counting (limited range data)
 - Practised oops-based scenario problems, including College Information System and Grocery Shopping App
 
-🔗 *Code Link:*  
-👉 [Sorting Algorithms](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
-👉 [Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day4)
+🔗 *Code Links:*  
+[Sorting Algorithms](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
+
+[Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day4)
 
 ---
 
@@ -334,14 +327,13 @@ E-Wallet System • Smart Home Automation
 - Applied core OOP concepts: Encapsulation, Inheritance, Abstraction, Polymorphism
 
 🔗 *Code Links:* 
-👉 [Binary Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/binaryserach)
-👉 [Linear Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearserach)
-👉 [StringBuffer](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuffer)
-👉 [StringBuilder](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuilder)
-👉 [File Reader](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/filereader)
-👉 [Input Stream Reader](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/inputstreamreader)
-
-👉 [Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day5)
+ [Binary Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/binaryserach)
+ [Linear Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearserach)
+ [StringBuffer](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuffer)
+ [StringBuilder](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuilder)
+ [File Reader](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/filereader)
+ [Input Stream Reader](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/inputstreamreader)
+ [Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day5)
 
 ---
 
@@ -357,8 +349,9 @@ E-Wallet System • Smart Home Automation
 - Practised oops-based scenario problems, including: Digital Bookstore System, Loan Approval Automation, and Smart Parking System
 
 🔗 *Code Links:* 
-👉 [Algorithm Analysis and Big-O Notation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/algorithmanalysis)
-👉 [Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day6)
+ [Algorithm Analysis and Big-O Notation](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/algorithmanalysis)
+
+ [Scenario based programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day6)
 
 ---
 
@@ -377,8 +370,7 @@ E-Wallet System • Smart Home Automation
 - Encapsulates service costs and calculates total budget
 - Supports different booking logic for trip types
 
-🔗 *Code Link:*  
-👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day7)
+🔗 *Code Link:* [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day7)
 
 ---
 
@@ -391,8 +383,7 @@ E-Wallet System • Smart Home Automation
 
 ✅ Demonstrates core **Java OOP concepts** using real-world scenarios  
 
-🔗 **Code Link:**  
-👉 [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day8)
+🔗 *Code Link:* [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day8)
 
 ---
 
@@ -409,8 +400,7 @@ E-Wallet System • Smart Home Automation
 - HashMap & HashSet usage  
 - Real-world problem-solving with efficient data handling  
 
-🔗 **Code Link:** 
-👉 [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
+🔗 *Code Link:* [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
 
 ---
 
@@ -430,8 +420,7 @@ E-Wallet System • Smart Home Automation
 - HashMap for tracking user and system data  
 - Dynamic insertion, deletion, and state management  
 
-🔗 *Code Link:*
-👉 [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day2)
+🔗 *Code Link:* [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day2)
 
 🏠 **HomeNest**: Smart home device manager using inheritance, interfaces, and polymorphism  
 💰 **BudgetWise**: Personal finance tracker with budgets, transactions, and analytical reports  
@@ -446,8 +435,7 @@ E-Wallet System • Smart Home Automation
 - Runtime polymorphism with device-, budget-, and genre-specific behavior  
 - Access modifiers for system and security controls  
 
-🔗 **Code Link:** 
-👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day9)
+🔗 *Code Link:* [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day9)
 
 ---
 
@@ -463,8 +451,7 @@ E-Wallet System • Smart Home Automation
 - Secure data handling and dynamic behavior execution  
 - Menu-driven, real-world problem solving  
 
-🔗 **Code Link:** 
-👉 [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day10)
+🔗 *Code Link:* [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day10)
 
 🛒 **SmartCheckout** – Queue + HashMap  
 📦 **ParcelTracker** – Singly Linked List  
@@ -472,7 +459,7 @@ E-Wallet System • Smart Home Automation
 
 ✅ Covers core DSA concepts: Queue, Stack, Linked List, HashMap, functions, and edge-case handling.
 
-🔗 **Code:** [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day3)
+🔗 *Code Link:* [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day3)
 
 ---
 
@@ -486,9 +473,11 @@ E-Wallet System • Smart Home Automation
 - Solved DSA sorting scenarios using Bubble, Insertion, Merge, and Quick Sort for hospital queues, shelves, sales reports, ticket pricing, and exam ranking.
 - Focused on selecting the right abstraction and algorithm based on real-world constraints.
 
-🔗 **Code Link:** [Generic Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+🔗 **Code Links:** 
 
-🔗 **Code Link:** [DSA Scenario Based Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day4)
+[Generic Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
+
+[DSA Scenario Based Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day4)
 
 ---
 
@@ -504,9 +493,11 @@ E-Wallet System • Smart Home Automation
   - Quick Sort for CropMonitor (large sensor data by timestamp)
 - Focused on choosing optimal collections and sorting algorithms based on data size, memory usage, and performance constraints.
 
-🔗 **Code Link:** [Scenario Based Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day5)
+🔗 *Code Links:*
 
-🔗 **Code Link:** [Collection Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
+[Scenario Based Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day5)
+
+[Collection Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
   
 ---
 
@@ -523,9 +514,11 @@ E-Wallet System • Smart Home Automation
   - Insertion Sort for SmartLibrary (alphabetical book sorting)
 - Emphasized real-world problem solving, efficient data handling, and correct use of OOP and sorting techniques.
 
-🔗 **Code Link:** [DSA Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day6)
+🔗 *Code Links:*
+
+[DSA Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day6)
  
-🔗 **Code Link:** [OOPs Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day11)
+[OOPs Scenario Based](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day11)
 
 ---
 
