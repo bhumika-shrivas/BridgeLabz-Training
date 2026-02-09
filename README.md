@@ -1,6 +1,6 @@
-## Data Structure and Algorithms
+## Week 03 - Data Structure and Algorithms
 
-# 📅 Day 1 – Linked List Practice
+### 📅 Day 1 – Linked List Practice
 *(Date: 02-Jan-2025)*
 
 Java programs implementing **Singly, Doubly, and Circular Linked Lists** using real-world scenarios.
@@ -17,11 +17,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Undo/Redo Text Editor  
 - Online Ticket Reservation  
 
-🔗 **Code Link:** [Linked List](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
+🔗 *Code Link:* [Linked List](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
 ---
 
-# 📅 Day 2 –  Stack, Queue and HashMaps
+### 📅 Day 2 –  Stack, Queue and HashMaps
 *(Date: 03-Jan-2025)*
 
 - Learned Stack data structure and implemented operations like push, pop, peek using LIFO principle
@@ -31,13 +31,14 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Understood Hash Functions, hashing mechanism, and collision handling concepts
 - Solved basic problems using HashMap such as frequency counting and lookup-based logic
 
-🔗 **Code Links:**  
-👉 [Stack and Queue](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stackandqueue)
-👉 [HashMaps](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/hashmaps)
+🔗 *Code Links:*
+ [Stack and Queue](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stackandqueue)
+ 
+ [HashMaps](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/hashmaps)
 
 ---
 
-# 📅 Day 3 –  Sorting Algorithms
+### 📅 Day 3 –  Sorting Algorithms
 *(Date: 05-Jan-2025)*
 
 - Learned Sorting Algorithms to arrange data efficiently in ascending order
@@ -49,11 +50,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Learned Heap Sort using heap data structure for efficient sorting
 - Implemented Counting Sort as a non-comparison-based sorting algorithm
 
-🔗 **Code Link:** [Sorting Algorithm](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
+🔗 *Code Link:* [Sorting Algorithm](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
 
 ---
 
-# 📅 Day 4 –  Strings, File Handling & Searching Algorithms
+### 📅 Day 4 –  Strings, File Handling & Searching Algorithms
 *(Date: 06-Jan-2025)*
 
 - Learned StringBuilder for mutable and fast string operations (non-synchronized)
@@ -63,17 +64,23 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Implemented Linear Search to find elements by sequential traversal
 - Practiced Binary Search on sorted data for efficient searching
 
-🔗 **Code Links:**  
-👉 [Binary Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/binaryserach)
+🔗 *Code Links:*
+
+   [Binary Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/binaryserach)
+   
    [Linear Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearserach)
+   
    [StringBuffer](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuffer)
+   
    [StringBuilder](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuilder)
+   
    [File Reader](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/filereader)
+   
    [Input Stream Reader](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/inputstreamreader)
 
 ---
 
-# 📅 Day 5 –  Algorithm's Runtime Analysis and Big-O Notation
+### 📅 Day 5 –  Algorithm's Runtime Analysis and Big-O Notation
 *(Date: 07-Jan-2025)*
 
 - Compared Linear Search (O(N)) vs Binary Search (O(log N)), showing how binary search drastically reduces search time for large, sorted datasets.
@@ -83,11 +90,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Compared Recursive vs Iterative Fibonacci, proving that exponential recursion is infeasible for large inputs.
 - Measured lookup performance of Array, HashSet, and TreeSet, concluding HashSet as fastest and TreeSet useful when ordering is required.
 
-🔗 **Code Link:** [Algorithm Analysis](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/algorithmanalysis)
+🔗 *Code Link:* [Algorithm Analysis](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/algorithmanalysis)
 
 ---
 
-# 📅 Day 6 –  DSA Scenario Based Programs
+### 📅 Day 6 –  DSA Scenario Based Programs
 *(Date: 10-Jan-2025)*
 
 📚 **BookShelf**: Library organizer using HashMap + LinkedList for genre-wise book management  
@@ -100,11 +107,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - HashMap & HashSet usage  
 - Real-world problem-solving with efficient data handling  
 
-🔗 **Code Link:** [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
+🔗 *Code Link:* [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
 
 ---
 
-# 📅 Day 7 –  DSA Scenario Based Programs
+### 📅 Day 7 –  DSA Scenario Based Programs
 *(Date: 12-Jan-2025)*
 
 📞 **CallCenter**: Customer queue manager using Queue, PriorityQueue, and HashMap  
@@ -120,11 +127,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - HashMap for tracking user and system data  
 - Dynamic insertion, deletion, and state management  
 
-🔗 **Code Link:** [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day2)
+🔗 *Code Link:* [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day2)
 
 ---
 
-# 📅 Day 8 –  DSA Scenario Based Programs
+### 📅 Day 8 –  DSA Scenario Based Programs
 *(Date: 13-Jan-2025)*
 
 🛒 **SmartCheckout**: Supermarket billing queue system using Queue + HashMap  
@@ -139,11 +146,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 - Function-driven business logic (billing & scoring)  
 - Null handling and edge case management  
 
-🔗 **Code Link:** [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day3)
+🔗 *Code Link:* [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day3)
 
 ---
 
-# 📅 Day 9 –  Sorting Algorithms – Scenario-Based Programs
+### 📅 Day 9 –  Sorting Algorithms – Scenario-Based Programs
 *(Date: 15-Jan-2025)*
 
 ## 🧩 Implementations
@@ -163,11 +170,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 
 🎯 Designed to strengthen understanding of **sorting logic**, **performance trade-offs**, and **practical use cases**.
 
-🔗 **Code Link:** [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day4)
+🔗 *Code Link:* [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day4)
 
 ---
 
-# 📅 Day 10 –  Sorting Algorithms – Scenario-Based Programs
+### 📅 Day 10 –  Sorting Algorithms – Scenario-Based Programs
 *(Date: 16-Jan-2025)*
 
 ## 🧩 Implementations
@@ -182,11 +189,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 
 🎯 Emphasizes choosing the **right sorting algorithm** based on **data size and behavior**.
 
-🔗 **Code Link:** [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day5)
+🔗 *Code Link:* [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day5)
 
 ---
 
-# 📅 Day 11 –  Sorting Algorithms – Scenario-Based Programs
+### 📅 Day 11 –  Sorting Algorithms – Scenario-Based Programs
 *(Date: 17-Jan-2025)*
 
 ## 🧩 Implementations
@@ -202,11 +209,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 
 🎯 Focused on understanding **when and why** to use each sorting algorithm in real-world scenarios.
 
-🔗 **Code Link:** [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day6)
+🔗 *Code Link:* [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day6)
 
 ---
 
-# 📅 Day 12 –  Sorting Algorithms – Scenario-Based Programs
+### 📅 Day 12 –  Sorting Algorithms – Scenario-Based Programs
 *(Date: 19-Jan-2025)*
 
 ## 🧩 Implementations
@@ -221,11 +228,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 
 🎯 Designed to build intuition for **algorithm selection** in real-world DSA scenarios.
 
-🔗 **Code Link:** [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day7)
+🔗 *Code Link:* [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day7)
 
 ---
 
-# 📅 Day 13 – Sorting Algorithms – Scenario-Based Problems  
+### 📅 Day 13 – Sorting Algorithms – Scenario-Based Problems  
 *(Date: 20-Jan-2026)*
 
 ## 🧩 Implementations
@@ -240,11 +247,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 
 🎯 Designed to strengthen **sorting algorithm selection** based on data flow, size, and performance constraints in real-world DSA scenarios.
 
-🔗 **Code Link:** [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day8)
+🔗 *Code Link:* [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day8)
 
 ---
 
-# 📅 Day 14 – Sorting & BST – Scenario-Based Problems  
+### 📅 Day 14 – Sorting & BST – Scenario-Based Problems  
 *(Date: 21-Jan-2026)*
 
 ## 🧩 Implementations
@@ -262,11 +269,11 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 
 🎯 Designed to strengthen **efficient searching, sorted data management, and real-world application of DSA concepts**.
 
-🔗 **Code Link:** [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day9)
+🔗 *Code Link:* [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day9)
 
 ---
 
-# 📅 Day 15 – AVL Tree – Scenario-Based Problems  
+### 📅 Day 15 – AVL Tree – Scenario-Based Problems  
 *(Date: 22-Jan-2026)*
 
 ## 🧩 Implementations
@@ -282,6 +289,6 @@ Java programs implementing **Singly, Doubly, and Circular Linked Lists** using r
 
 🎯 Designed to build expertise in **balanced tree structures, fast lookups, and real-world performance-critical systems**.
 
-🔗 **Code Link:** [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day10)
+🔗 *Code Link:* [Scenario-Based Sorting Algorithm Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day10)
 
 ---
