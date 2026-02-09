@@ -672,3 +672,16 @@ E-Wallet System • Smart Home Automation
 
 ---
 
+## 📅 Day 36 – Java 8 Scenario-Based Questions  
+*(Date: 29–Jan-2026)*
+
+- Practised scenario-based problems using Java 8 functional programming concepts.
+- Used **Lambda Expressions** to replace anonymous classes and simplify logic.
+- Applied **Functional Interfaces** (`Predicate`, `Function`, `Consumer`, `Supplier`) for business rules.
+- Solved collection-based problems using **Streams API** (filtering, mapping, grouping, sorting, aggregation).
+- Used **Optional** to handle null-sensitive cases safely and avoid `NullPointerException`.
+
+🔗 *Code Link:* [Java 8 Scenario Practice]
+
+---
+
