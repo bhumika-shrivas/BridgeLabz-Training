@@ -1,0 +1,14 @@
+.metadata/
+.settings/
+.classpath
+.project
+
+bin/
+target/
+
+.Log
+
+.DS_Store
+Thumbs.db
+
+module-info.java
