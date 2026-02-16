@@ -707,6 +707,6 @@ E-Wallet System • Smart Home Automation
 - Developed a **Library Management System** with book inventory, student borrowing records, fine calculation, and multi-filter search.
 - Enhanced database and data-handling skills through hands-on, real-world application scenarios.
 
-🔗 *Code Link:* [MySql Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSPractice/src/com/mysql)
+🔗 **Code Link:** [MySql Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DBMSPractice/src/com/mysql)
 
 ---
