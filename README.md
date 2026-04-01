@@ -1,7 +1,13 @@
-# 🚀 BridgeLabz Java Training – Main Branch
+## Week 04 - Java Collections, Streams
 
-This repository documents my **BridgeLabz Java Training**, organized **day-wise with dates**, covering **Core Java fundamentals** and **Object-Oriented Programming (OOP)** through hands-on practice and real-world scenarios.
+### 📅 Day 1 – Java Generics  
+*(Date: 15 January 2026)*
 
+### Topics Covered
+- Fundamentals of Java Generics: type safety, reusability, compile-time checks, and elimination of type casting  
+- Generic classes and methods  
+- Bounded type parameters  
+- Wildcards  
 ---
 
 ## 📅 Week 01 – Git, GitHub & Core Java Fundamentals
@@ -171,20 +177,14 @@ BridgeLabz-Training/
 
 🔗 **Code Link:** [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based/Day-4)
 
-- Studied and practiced **object modelling and relationships**
-  
-### 📘 Classes vs Objects in Java
-- A **Class** is a blueprint that defines properties and methods.
-- An **Object** is an instance of a class with actual values.
-- Classes define structure; objects represent real-world entities.
-- Class metadata is stored in the **Method Area**, objects in the **Heap**.
-- One class can create **multiple objects**.
-### 📘 Object Relationships (Java)
-- Demonstrates **Association** between Course–Teacher and Course–Students  
-- Shows **Aggregation** where School manages multiple Courses  
-- Objects communicate via method calls  
-- Models real-world school relationships using Core Java
+### Practical Applications
+- Smart Warehouse system using bounded generics  
+- Online Marketplace with generic products and discount methods  
+- University Course Management using wildcards  
+- Personalized Meal Plan Generator with bounded generics  
+- AI-driven Resume Screening system with generic processing  
 
+🔗 **Code Link:** [Generic Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/generics)
 
 🔗 **Code Link:** [Object Oriented Designing, Modelling & Relations](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
 
@@ -303,18 +303,25 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 🟢 Day 18 – Practiced StringBuffer, StringBuilder, File Handling & Searching Algorithms and Oops-based Scenario problems
-*(06-Jan-2026)*
+### 📅 Day 2 – Java Collections  
+*(Date: 16 January 2026)*
 
-- Learned StringBuilder for mutable and fast string operations (non-synchronized)
-- Studied StringBuffer for thread-safe string manipulation (synchronized)
-- Understood differences between String, StringBuilder, and StringBuffer
-- Practiced FileReader to read data from files using character streams
-- Implemented Linear Search to find elements by sequential traversal
-- Practiced Binary Search on sorted data for efficient searching
-- Practised oops-based scenario problems, including: Event Management, Fitness Tracker, Personalized Learning, and Virtual Pet Care
-- Applied core OOP concepts: Encapsulation, Inheritance, Abstraction, Polymorphism
+### Topics Covered
+- Overview of the **Java Collections Framework**: purpose, structure, and hierarchy  
+- Core interfaces: `List`, `Set`, `Queue`, `Deque`, and `Map`  
+- Common implementations like `ArrayList`, `LinkedList`, `HashSet`, `TreeSet`, `PriorityQueue`, `ArrayDeque`, `HashMap`, and `TreeMap`  
+- Comparison of collections based on:
+  - Performance  
+  - Ordering  
+  - Duplication handling  
+  - Thread-safety  
 
+### Practical Applications
+- Choosing the right collection for different problem scenarios  
+- Applying best practices for efficient data storage and retrieval  
+- Real-world problem-solving using appropriate collection implementations  
+
+🔗 **Code Link:** [Collections Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/collections)
 🔗 **Code Link:** [Binary Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/binaryserach)
 🔗 **Code Link:** [Linear Search](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearserach)
 🔗 **Code Link:** [StringBuffer](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuffer)
@@ -325,9 +332,31 @@ E-Wallet System • Smart Home Automation
 
 ---
 
-### 🟢 Day 19 – Algorithm's Runtime Analysis & Big-O Notation and Oops-based Scenario problems
-*(07-Jan-2026)*
+### 📅 Day 3 – Java Streams  
+*(Date: 19 January 2026)*
 
+### Topics Covered
+- Introduction to **Java I/O Streams** for file-based and in-memory data handling  
+- Byte Streams vs Character Streams: use cases and differences  
+- File handling using `FileInputStream` and `FileOutputStream`  
+- Object Streams for serialization and deserialization  
+- In-memory data handling with `ByteArrayInputStream` and `ByteArrayOutputStream`  
+- Performance optimization using Buffered Streams  
+- Reader and Writer classes for character-based I/O  
+
+### Practical Applications
+- Reading and writing files efficiently  
+- Data serialization for object persistence  
+- Optimizing I/O performance using buffering  
+- Choosing the correct stream type for different data formats  
+- Proper resource management using best practices
+
+🔗 **Code Link:** [Java Stream Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/streams)
+
+---
+
+### 📅 Day 4 – Java Exception Handling  
+*(Date: 20 January 2026)*
 - Compared Linear Search (O(N)) vs Binary Search (O(log N)), showing how binary search drastically reduces search time for large, sorted datasets.
 - Analyzed Bubble Sort (O(N²)) vs Merge Sort & Quick Sort (O(N log N)), highlighting why quadratic algorithms fail at scale.
 - Evaluated String vs StringBuilder vs StringBuffer for concatenation, demonstrating why mutable strings are essential for performance.
@@ -363,12 +392,28 @@ E-Wallet System • Smart Home Automation
 ### 🟢 Day 21 – Oops-based Scenario problems
 *(09-Jan-2026)*
 
-- 🎨 **Artify:** Digital/print art marketplace with purchase, licensing, and polymorphism  
-- 🍽️ **FoodLoop:** Food ordering system with combo meals, discounts, and inheritance  
-- 🎓 **SkillForge:** Online learning portal with courses, progress tracking, and certificates  
+### Topics Covered
+- Overview of **Java Exception Handling** and its importance  
+- Checked vs Unchecked exceptions  
+- Creating and using **custom exceptions**  
+- Exception handling constructs:
+  - `try-catch`  
+  - `try-catch-finally`  
+  - `try-with-resources`  
+- Exception propagation using `throw` and `throws`  
 
-✅ Demonstrates core **Java OOP concepts** using real-world scenarios  
+### Practical Applications
+- Handling runtime and compile-time errors safely  
+- Managing resources efficiently with `try-with-resources`  
+- Implementing meaningful error handling using custom exceptions  
+- Controlling program flow through exception propagation  
 
+🔗 **Code Link:** [Java Exception Handling Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/exceptions)
+
+---
+
+### 📅 Day 5 – Regular Expressions (Regex) and JUnit  
+*(Date: 21 January 2026)*
 🔗 **Code Link:** [Scenario-Based OOPS Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day8)
 
 ---
@@ -376,16 +421,31 @@ E-Wallet System • Smart Home Automation
 ### 🟢 Day 22 – Data Structures–based Scenario Problems  
 *(10-Jan-2026)*
 
-📚 **BookShelf**: Library organizer using HashMap + LinkedList for genre-wise book management  
-🌐 **BrowserBuddy**: Tab history manager using Doubly Linked List + Stack with back/forward navigation  
-🚑 **AmbulanceRoute**: Emergency patient navigation system using Circular Linked List  
+### Topics Covered
+- Regex basics: metacharacters, quantifiers, and pattern writing  
+- Input validation using regex (email, password, phone number)  
+- Java Regex API: `Pattern`, `Matcher`, `find()`, `matches()`, `replaceAll()`  
+- Introduction to JUnit for unit testing  
+- Writing test cases using annotations and assertions  
 
-✅ Demonstrates practical use of core Data Structures:
-- Singly, Doubly & Circular Linked Lists  
-- Stack & Queue concepts  
-- HashMap & HashSet usage  
-- Real-world problem-solving with efficient data handling  
+### Practical Applications
+- Validating and processing text data  
+- Writing and verifying unit tests for Java applications  
 
+🔗 **Code Link:** [Regex Practice Problems](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/regularexpression)
+
+---
+
+### 📅 Day 6 – Annotations and Reflection in Java  
+*(Date: 22 January 2026)*
+
+### Topics Covered
+- Basics of Java annotations and their role as code metadata  
+- Common built-in annotations and creation of custom annotations  
+- Advanced annotation usage for real-world scenarios  
+- Introduction to Java Reflection  
+- Accessing classes, methods, and fields at runtime  
+- Using reflection in combination with annotations  
 🔗 **Code Link:** [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day1)
 
 ---
@@ -439,12 +499,14 @@ E-Wallet System • Smart Home Automation
 
 🔗 **Code Link:** [Scenario-Based OOP Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based/JavaOopsImplementation/src/com/day10)
 
-🛒 **SmartCheckout** – Queue + HashMap  
-📦 **ParcelTracker** – Singly Linked List  
-🧪 **ExamProctor** – Stack + HashMap  
+### Practical Applications
+- Adding metadata to code for configuration and validation  
+- Building flexible and extensible systems using custom annotations  
+- Runtime inspection and dynamic behavior using reflection  
 
-✅ Covers core DSA concepts: Queue, Stack, Linked List, HashMap, functions, and edge-case handling.
+🔗 **Code Link:** [Annotation Practice Problem](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/annotations)
 
+🔗 **Code Link:** [Reflection Practice Problem](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/com/reflection)
 🔗 **Code Link:** [Scenario-Based DSA Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DSAImplementation/src/com/day3)
 
 ---
