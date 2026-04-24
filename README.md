@@ -1,3 +1,30 @@
+## Week 07: Solution Designing 
+
+### 📅 Day 1 - Software Design Principles & GoF Design Patterns
+*(Date: 31-Jan-2026)*
+
+- Practiced core **software design principles** for building clean, maintainable, and scalable applications.
+- Studied and applied **SOLID principles**:
+  - SRP, OCP, LSP, ISP, DIP
+- Followed key design guidelines: **DRY**, **KISS**, and **YAGNI** to improve code quality and decision-making.
+- Explored **GoF Design Patterns** and their categories:
+  - Creational, Structural, Behavioural
+- Implemented commonly used patterns such as **Singleton**, **Factory**, **Observer**, and **Builder**.
+
+🔗 *Code Link:* [Practice Questions](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/librarymanagementsystem)
+
+---
+
+### 📅 Day 2 – Java Multithreading  
+*(Date: 02-Feb-2026)*
+
+- Practiced **Java Multithreading** concepts for building concurrent and high-performance applications.
+- Covered thread creation, lifecycle, synchronization, locks, and inter-thread communication.
+- Worked with **Executor Framework**, `Callable`, and `ThreadLocal`.
+- Focused on thread safety, race conditions, and performance considerations through real-world scenarios.
+- Strengthened understanding using practical examples and hands-on exercises.
+
+🔗 *Code Link:* [Multithreading Questions](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/MuthithreadingPractice/src/com)
 ## Week 06 - Java Functional Programming
 
 ### 📅 Day 1 – Java Lambdas & Method References
@@ -475,6 +502,8 @@ BridgeLabz-Training/
 
 🔗 *Code Link:* [Stream API Practice](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8Practice/src/com/streamsapi)
 
+### 📅 Day 3 – Bank Transactions Using Multithreading  
+*(Date: 03-Feb-2026)*
 🔗 **Code Link:** [Scenario Based Java Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/core-java-practice/scenario-based)
 🔗 **Code Link:** [Class and Object Basic Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
 
@@ -491,13 +520,15 @@ BridgeLabz-Training/
 ### 🟢 Day 10 - Java Constructors, Instance vs Class Variables & Access Modifiers  
 *(Date: 27-Dec-2025)*
 
-- Learned how *constructors* initialize objects in Java  
-- Practiced *parameterized constructors* using real-world examples  
-- Understood the difference between *instance variables* and *class (static) variables*  
-- Used *static methods* to handle shared data  
-- Learned and applied *access modifiers* (public, protected, private)  
-- Implemented *encapsulation* using getters and setters  
-- Practiced *inheritance* to demonstrate access control
+- Solved a multithreading scenario simulating **concurrent bank transactions**.
+- Implemented a **thread-safe Bank class** with synchronized deposit, withdrawal, and balance operations.
+- Created multiple **Customer threads** to perform transactions concurrently.
+- Verified correctness by checking final account balances.
+- Strengthened understanding of thread creation, synchronization, and real-world concurrency handling.
+
+🔗 *Code Link:* [Scenario Based Problem](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based/ScenarioProblems/src/com/banktransactionmulithreading)
+
+---
 
 🔗 **Code Link:** [Programs](https://github.com/bhumika-shrivas/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor)
 
