@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Arya",
+    "age": 21,
+    "email": "arya@example.com",
+    "city": "Delhi",
+    "subjects": ["Math", "Physics", "CS"]
+  },
+  {
+    "name": "Riya",
+    "age": 23,
+    "email": "riya@example.com",
+    "city": "Mumbai",
+    "subjects": ["Biology", "Chemistry", "English"]
+  },
+  {
+    "name": "John",
+    "age": 28,
+    "email": "john@example.com",
+    "city": "Bangalore",
+    "subjects": ["Economics", "Math", "History"]
+  },
+  {
+    "name": "Sara",
+    "age": 19,
+    "email": "sara@example.com",
+    "city": "Kolkata",
+    "subjects": ["Physics", "Chemistry", "Biology"]
+  }
+]

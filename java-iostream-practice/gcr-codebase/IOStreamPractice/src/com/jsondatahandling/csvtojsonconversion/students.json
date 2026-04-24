@@ -1,0 +1,25 @@
+[ {
+  "id" : "1",
+  "name" : "Arya",
+  "age" : "21",
+  "course" : "CSE",
+  "marks" : "88"
+}, {
+  "id" : "2",
+  "name" : "Bhumi",
+  "age" : "22",
+  "course" : "IT",
+  "marks" : "91"
+}, {
+  "id" : "3",
+  "name" : "Riyu",
+  "age" : "20",
+  "course" : "AI",
+  "marks" : "85"
+}, {
+  "id" : "4",
+  "name" : "Dishu",
+  "age" : "23",
+  "course" : "DS",
+  "marks" : "95"
+} ]
